@@ -143,61 +143,29 @@ Designed and developed a 4-page interactive business intelligence dashboard.
 
 ## Page 1 – Executive Summary
 
-![Executive Summary](Dashboard_Screenshots/Page1_Executive.png)
-
-### Features
-
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Customers
-- Profit Margin
-- Monthly Sales Trend
-- Segment Contribution
-- Top Regions by Profit
+![Executive Summary](<img width="1151" height="737" alt="image" src="https://github.com/user-attachments/assets/1f6aeca3-114c-405a-84ba-a1dd887cfc7f" />
+)
 
 ---
 
 ## Page 2 – Regional Performance
 
-![Regional Performance](Dashboard_Screenshots/Page2_Regional.png)
-
-### Features
-
-- Regional Sales Analysis
-- Regional Profit Analysis
-- Profit Margin Comparison
-- Geographic Performance Analysis
-- Regional Performance Matrix
+![Regional Performance](<img width="1127" height="737" alt="image" src="https://github.com/user-attachments/assets/3da6712e-c0f5-44e9-b303-4ae55f000baf" />
+)
 
 ---
 
 ## Page 3 – Customer Analytics & Segmentation
 
-![Customer Analytics](Dashboard_Screenshots/Page3_Customer.png)
-
-### Features
-
-- Top Customers by Revenue
-- Top Customers by Profit
-- Sales by Segment
-- Customer Count by Segment
-- Customer Segmentation Analysis
-- Revenue & Profit by Customer Segment
+![Customer Analytics](<img width="1133" height="732" alt="image" src="https://github.com/user-attachments/assets/f85de3c0-0ff0-4872-8e3f-1d38b417ab8b" />
+)
 
 ---
 
 ## Page 4 – Product Analytics & Profitability
 
-![Product Analytics](Dashboard_Screenshots/Page4_Product.png)
-
-### Features
-
-- Top Products by Revenue
-- Category Contribution Analysis
-- Loss-Making Products
-- Discount Band Analysis
-- Product Profitability Analysis
+![Product Analytics](<img width="1133" height="738" alt="image" src="https://github.com/user-attachments/assets/ea8c5840-718a-4470-9fd0-89da87358504" />
+)
 
 ---
 

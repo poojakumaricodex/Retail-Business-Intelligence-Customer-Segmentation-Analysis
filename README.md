@@ -1,4 +1,4 @@
-# Retail Business Intelligence & Customer Segmentation Analysis
+# Retail Business Intelligence & Customer Segmentation Analys
 
 ## Project Overview
 

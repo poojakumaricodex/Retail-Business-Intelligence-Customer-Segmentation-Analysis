@@ -1,0 +1,1591 @@
+Customer ID,Customer Name,Revenue,Profit,Orders,Cluster,Segment_Type
+AA-10315,Alex Avila,13747.6,447.8,19,1,Regular
+AA-10375,Allen Armold,5884.3,677.7,23,1,Regular
+AA-10480,Andrew Allen,17695.6,1516.3,20,1,Regular
+AA-10645,Anna Andreadi,15344.3,3051.1,36,2,High Value
+AA-315,Alex Avila,2243.2,535.5999999999999,7,0,Low Value
+AA-375,Allen Armold,654.6,77.39999999999999,8,0,Low Value
+AA-480,Andrew Allen,2063.4,554.6,5,0,Low Value
+AA-645,Anna Andreadi,1968.3,-608.5000000000001,11,0,Low Value
+AB-10015,Aaron Bergman,20037.7,3719.7000000000003,32,2,High Value
+AB-10060,Adam Bellavance,18416.7,4514.0,32,2,High Value
+AB-10105,Adrian Barton,22967.2,6912.599999999999,33,2,High Value
+AB-10150,Aimee Bixby,13057.6,2064.5,24,1,Regular
+AB-10165,Alan Barnes,11649.5,2329.4,29,1,Regular
+AB-10255,Alejandro Ballentine,10786.3,-43.40000000000005,31,1,Regular
+AB-105,Adrian Barton,2156.4,-495.29999999999995,7,0,Low Value
+AB-10600,Ann Blume,13318.7,905.5,22,1,Regular
+AB-15,Aaron Bergman,4607.2,963.6999999999999,5,0,Low Value
+AB-150,Aimee Bixby,3143.9,862.3000000000001,4,0,Low Value
+AB-165,Alan Barnes,1399.8,106.60000000000001,6,0,Low Value
+AB-255,Alejandro Ballentine,4679.5,801.8,8,0,Low Value
+AB-60,Adam Bellavance,1770.3999999999999,465.9,9,0,Low Value
+AB-600,Ann Blume,5408.4,964.5,5,0,Low Value
+AC-10420,Alyssa Crouse,10607.8,206.2,24,1,Regular
+AC-10450,Amy Cox,16126.5,4105.5,19,2,High Value
+AC-10615,Ann Chong,12729.6,1161.1,29,1,Regular
+AC-10660,Anna Chung,6256.0,-998.6,21,0,Low Value
+AC-420,Alyssa Crouse,1689.7,237.39999999999998,9,0,Low Value
+AC-450,Amy Cox,1026.7,-125.29999999999998,7,0,Low Value
+AC-615,Ann Chong,2298.4,-280.40000000000003,7,0,Low Value
+AC-660,Anna Chung,2676.2000000000003,727.0,4,0,Low Value
+AD-10180,Alan Dominguez,17858.9,2050.8,27,2,High Value
+AD-180,Alan Dominguez,681.3,-510.8,3,0,Low Value
+AF-10870,Art Ferguson,26487.5,1735.6,36,2,High Value
+AF-10885,Art Foster,19711.5,2882.8,35,2,High Value
+AF-870,Art Ferguson,1700.2,542.5,9,0,Low Value
+AF-885,Art Foster,355.1,88.3,2,0,Low Value
+AG-10270,Alejandro Grove,10637.6,2152.4,25,1,Regular
+AG-10300,Aleksandra Gannaway,13013.800000000001,1845.9,24,1,Regular
+AG-10330,Alex Grayson,14535.0,929.0,29,1,Regular
+AG-10390,Allen Goldenen,8453.4,995.5,19,1,Regular
+AG-10495,Andrew Gjertsen,15380.6,2748.9,29,2,High Value
+AG-10525,Andy Gerbode,8468.9,35.79999999999999,20,1,Regular
+AG-10675,Anna Gayman,13023.800000000001,680.9,21,1,Regular
+AG-10765,Anthony Garverick,9824.8,1250.5,27,1,Regular
+AG-10900,Arthur Gainer,18174.6,1879.8999999999999,29,2,High Value
+AG-270,Alejandro Grove,2779.7,450.3,8,0,Low Value
+AG-300,Aleksandra Gannaway,1703.2,-1072.6,6,0,Low Value
+AG-330,Alex Grayson,532.5,77.60000000000001,7,0,Low Value
+AG-390,Allen Goldenen,473.2,-548.3000000000001,4,0,Low Value
+AG-495,Andrew Gjertsen,1004.1,-106.70000000000002,11,0,Low Value
+AG-525,Andy Gerbode,2870.6,133.39999999999998,7,0,Low Value
+AG-675,Anna Gayman,2368.2,242.2,10,0,Low Value
+AG-765,Anthony Garverick,1859.5,-1075.3,8,0,Low Value
+AG-900,Arthur Gainer,1699.5,-146.5,4,0,Low Value
+AH-10030,Aaron Hawkins,14439.7,2601.4,27,2,High Value
+AH-10075,Adam Hart,18109.7,985.8,34,1,Regular
+AH-10120,Adrian Hane,9927.8,1704.8,22,1,Regular
+AH-10195,Alan Haines,12628.4,158.69999999999996,25,1,Regular
+AH-10210,Alan Hwang,20365.6,4139.9,34,2,High Value
+AH-10465,Amy Hunt,8547.9,611.9,20,1,Regular
+AH-10585,Angele Hood,9126.1,1458.4,22,1,Regular
+AH-10690,Anna Häberlin,16276.5,2795.5,31,2,High Value
+AH-120,Adrian Hane,1478.2,376.3,4,0,Low Value
+AH-195,Alan Haines,2651.5,-751.1999999999999,9,0,Low Value
+AH-210,Alan Hwang,3277.1,202.6,4,0,Low Value
+AH-30,Aaron Hawkins,6320.0,-150.4999999999999,7,0,Low Value
+AH-465,Amy Hunt,651.0,106.5,4,0,Low Value
+AH-585,Angele Hood,2232.1000000000004,151.6,9,0,Low Value
+AH-690,Anna Häberlin,1818.1,-329.8,5,0,Low Value
+AH-75,Adam Hart,3608.3,915.8000000000001,8,0,Low Value
+AI-10855,Arianne Irving,8358.7,1612.9,22,1,Regular
+AI-855,Arianne Irving,920.0,-74.60000000000001,4,0,Low Value
+AJ-10780,Anthony Jacobs,15186.6,1784.4,25,1,Regular
+AJ-10795,Anthony Johnson,8887.3,1861.1,22,1,Regular
+AJ-10945,Ashley Jarboe,11087.2,1567.7,29,1,Regular
+AJ-10960,Astrea Jones,8633.6,1518.3,17,1,Regular
+AJ-780,Anthony Jacobs,2571.2,-612.4000000000001,12,0,Low Value
+AJ-795,Anthony Johnson,3395.4,617.5,10,0,Low Value
+AJ-945,Ashley Jarboe,4861.0,1439.1,7,0,Low Value
+AJ-960,Astrea Jones,4629.5,1012.6,10,0,Low Value
+AM-10360,Alice McCarthy,16730.600000000002,2748.6,33,2,High Value
+AM-10705,Anne McFarland,24219.0,2729.1,30,2,High Value
+AM-360,Alice McCarthy,2036.0,229.4,6,0,Low Value
+AM-705,Anne McFarland,1303.8,510.0,6,0,Low Value
+AO-10810,Anthony O'Donnell,14538.1,1028.2,27,1,Regular
+AO-810,Anthony O'Donnell,484.90000000000003,64.8,5,0,Low Value
+AP-10720,Anne Pryor,15362.4,2937.6,20,2,High Value
+AP-10915,Arthur Prichep,15878.3,2420.5,32,2,High Value
+AP-720,Anne Pryor,999.8,55.300000000000004,6,0,Low Value
+AP-915,Arthur Prichep,2668.2,717.4,5,0,Low Value
+AR-10345,Alex Russell,14166.1,1684.1,26,1,Regular
+AR-10405,Allen Rosenblatt,8956.9,-583.4,22,1,Regular
+AR-10510,Andrew Roberts,14277.7,3519.1,29,2,High Value
+AR-10540,Andy Reiter,7984.3,3050.7999999999997,15,1,Regular
+AR-10570,Anemone Ratner,9445.5,1584.8,18,1,Regular
+AR-10825,Anthony Rawles,15311.1,2828.0,38,2,High Value
+AR-345,Alex Russell,2301.2,606.6,9,0,Low Value
+AR-405,Allen Rosenblatt,571.0,31.399999999999988,6,0,Low Value
+AR-510,Andrew Roberts,2638.7,42.8,10,0,Low Value
+AR-540,Andy Reiter,561.6,88.2,8,0,Low Value
+AR-570,Anemone Ratner,2044.4,409.6,9,0,Low Value
+AR-825,Anthony Rawles,2029.0,289.59999999999997,7,0,Low Value
+AS-10045,Aaron Smayling,12596.4,661.0,28,1,Regular
+AS-10090,Adam Shillingsburg,15009.6,1344.8999999999999,32,1,Regular
+AS-10135,Adrian Shami,7307.5,750.2000000000002,19,1,Regular
+AS-10225,Alan Schoenberger,21366.8,2718.5,28,2,High Value
+AS-10240,Alan Shonely,9006.9,630.3000000000001,31,1,Regular
+AS-10285,Alejandro Savely,16180.2,1795.2,30,1,Regular
+AS-10630,Ann Steele,9816.300000000001,3194.4,19,2,High Value
+AS-135,Adrian Shami,3978.7999999999997,814.3000000000001,5,0,Low Value
+AS-225,Alan Schoenberger,469.4,-214.9,7,0,Low Value
+AS-240,Alan Shonely,1686.6000000000001,545.0,5,0,Low Value
+AS-285,Alejandro Savely,4938.6,738.8,13,0,Low Value
+AS-45,Aaron Smayling,1616.3,-291.6,3,0,Low Value
+AS-630,Ann Steele,2000.2,-1103.3,11,0,Low Value
+AS-90,Adam Shillingsburg,435.2,76.2,4,0,Low Value
+AT-10435,Alyssa Tate,13654.4,3016.8,24,2,High Value
+AT-10735,Annie Thurman,12984.2,2517.0,29,2,High Value
+AT-435,Alyssa Tate,1288.2,-221.59999999999997,12,0,Low Value
+AT-735,Annie Thurman,403.6,143.1,5,0,Low Value
+AW-10840,Anthony Witt,13200.6,1444.6,25,1,Regular
+AW-10930,Arthur Wiediger,10231.3,2586.2000000000003,22,1,Regular
+AW-840,Anthony Witt,1947.0,-228.39999999999998,7,0,Low Value
+AW-930,Arthur Wiediger,782.1,95.0,6,0,Low Value
+AY-10555,Andy Yotov,5446.8,1850.3000000000002,16,1,Regular
+AY-555,Andy Yotov,3096.7,440.3,11,0,Low Value
+AZ-10750,Annie Zypern,9639.4,1606.2,18,1,Regular
+AZ-750,Annie Zypern,2231.5,-682.0,10,0,Low Value
+BB-10990,Barry Blumstein,9064.8,177.0,30,1,Regular
+BB-11545,Brenda Bowman,15797.9,1686.8000000000002,26,1,Regular
+BB-1545,Brenda Bowman,207.1,52.2,5,0,Low Value
+BB-990,Barry Blumstein,822.4,122.30000000000001,7,0,Low Value
+BC-11125,Becky Castell,14789.800000000001,2755.9,28,2,High Value
+BC-1125,Becky Castell,396.0,-269.7,6,0,Low Value
+BD-11320,Bill Donatelli,13390.1,1409.9,32,1,Regular
+BD-11500,Bradley Drucker,13089.7,2412.5,27,1,Regular
+BD-11560,Brendan Dodson,9356.9,1910.3,19,1,Regular
+BD-11605,Brian Dahlen,9202.6,1201.4,19,1,Regular
+BD-11620,Brian DeCherney,7849.2,448.40000000000003,25,1,Regular
+BD-11635,Brian Derr,11230.9,1303.4,25,1,Regular
+BD-11725,Bruce Degenhardt,10878.0,1574.2,30,1,Regular
+BD-11770,Bryan Davis,10168.7,2397.9,26,1,Regular
+BD-1320,Bill Donatelli,1885.1,213.1,6,0,Low Value
+BD-1500,Bradley Drucker,52.1,-31.2,3,0,Low Value
+BD-1560,Brendan Dodson,1564.0,114.89999999999999,5,0,Low Value
+BD-1605,Brian Dahlen,689.6,224.39999999999998,5,0,Low Value
+BD-1620,Brian DeCherney,2919.7000000000003,535.9,11,0,Low Value
+BD-1635,Brian Derr,5689.2,1488.6,9,0,Low Value
+BD-1725,Bruce Degenhardt,5078.5,901.0000000000001,13,0,Low Value
+BD-1770,Bryan Davis,3405.0,-869.5,5,0,Low Value
+BE-11335,Bill Eplett,27158.1,7791.1,37,2,High Value
+BE-11410,Bobby Elias,16552.4,3398.2,30,2,High Value
+BE-11455,Brad Eason,17643.9,517.8000000000001,27,1,Regular
+BE-1335,Bill Eplett,1321.2,-380.5,5,0,Low Value
+BE-1410,Bobby Elias,1859.8,391.0,7,0,Low Value
+BE-1455,Brad Eason,1340.4,460.09999999999997,2,0,Low Value
+BF-1005,Barry Franz,732.1,176.39999999999998,2,0,Low Value
+BF-1020,Barry Französisch,3007.1,-193.19999999999996,7,0,Low Value
+BF-1080,Bart Folk,3808.2999999999997,897.0,6,0,Low Value
+BF-10975,Barbara Fisher,8104.7,1216.9,22,1,Regular
+BF-11005,Barry Franz,23348.3,939.1999999999999,25,1,Regular
+BF-11020,Barry Französisch,10201.6,1133.3,24,1,Regular
+BF-11080,Bart Folk,10134.8,1187.5,21,1,Regular
+BF-11170,Ben Ferrer,22315.3,3859.3,31,2,High Value
+BF-11215,Benjamin Farhat,12969.2,879.0000000000001,27,1,Regular
+BF-11275,Beth Fritzler,9579.0,564.6,23,1,Regular
+BF-1170,Ben Ferrer,904.9000000000001,276.0,6,0,Low Value
+BF-1215,Benjamin Farhat,398.90000000000003,-237.5,5,0,Low Value
+BF-1275,Beth Fritzler,1010.1,96.5,7,0,Low Value
+BF-975,Barbara Fisher,1730.1,616.7,8,0,Low Value
+BG-1035,Barry Gonzalez,124.4,-219.8,1,0,Low Value
+BG-11035,Barry Gonzalez,19899.1,1750.2,33,2,High Value
+BG-11695,Brooke Gillingham,10723.5,569.1,19,1,Regular
+BG-11740,Bruce Geld,14689.5,2084.6,24,1,Regular
+BG-1695,Brooke Gillingham,488.8,-151.79999999999998,5,0,Low Value
+BG-1740,Bruce Geld,692.4,-658.0999999999999,4,0,Low Value
+BH-11710,Brosina Hoffman,23537.7,3244.1,31,2,High Value
+BH-1710,Brosina Hoffman,4583.2,1633.1,10,0,Low Value
+BK-11260,Berenike Kampe,13295.2,2389.7,27,1,Regular
+BK-1260,Berenike Kampe,291.5,58.300000000000004,6,0,Low Value
+BM-11140,Becky Martin,25312.3,-1140.9,29,1,Regular
+BM-1140,Becky Martin,1857.8,43.59999999999997,6,0,Low Value
+BM-11575,Brendan Murry,10351.3,-189.49999999999997,25,1,Regular
+BM-11650,Brian Moss,14921.2,3927.0,24,2,High Value
+BM-11785,Bryan Mills,18447.5,2037.2,36,2,High Value
+BM-1575,Brendan Murry,1704.2,471.70000000000005,9,0,Low Value
+BM-1650,Brian Moss,2537.1,458.59999999999997,8,0,Low Value
+BM-1785,Bryan Mills,2244.4,476.1,9,0,Low Value
+BN-11470,Brad Norvell,23378.3,1548.1,29,2,High Value
+BN-11515,Bradley Nguyen,10272.6,2018.5,23,1,Regular
+BN-1470,Brad Norvell,2823.9,576.1,7,0,Low Value
+BN-1515,Bradley Nguyen,2606.9,525.5,8,0,Low Value
+BO-11350,Bill Overfelt,7476.6,555.1999999999999,20,1,Regular
+BO-11425,Bobby Odegard,12356.8,1904.8999999999999,21,1,Regular
+BO-1350,Bill Overfelt,616.2,-139.9,6,0,Low Value
+BO-1425,Bobby Odegard,2671.3,651.9,8,0,Low Value
+BP-1050,Barry Pond,4981.7,1245.8,9,0,Low Value
+BP-1095,Bart Pistole,1759.8,384.70000000000005,6,0,Low Value
+BP-11050,Barry Pond,5403.9,845.2,21,1,Regular
+BP-11095,Bart Pistole,8328.1,599.9,32,1,Regular
+BP-11155,Becky Pak,13696.3,3395.1000000000004,24,2,High Value
+BP-11185,Ben Peterman,15376.0,1989.2,28,1,Regular
+BP-11230,Benjamin Patterson,12573.9,468.19999999999993,23,1,Regular
+BP-11290,Beth Paige,12448.8,1858.6,29,1,Regular
+BP-1155,Becky Pak,1111.0,180.9,6,0,Low Value
+BP-1185,Ben Peterman,1430.9,-645.5,10,0,Low Value
+BP-1230,Benjamin Patterson,6135.1,444.30000000000007,8,0,Low Value
+BP-1290,Beth Paige,383.4,99.3,4,0,Low Value
+BS-11365,Bill Shonely,22551.1,5681.099999999999,26,2,High Value
+BS-11380,Bill Stewart,18306.2,1776.7,23,1,Regular
+BS-11590,Brendan Sweed,11358.8,1783.5,23,1,Regular
+BS-11665,Brian Stugart,17469.2,3112.2,24,2,High Value
+BS-11755,Bruce Stewart,17557.8,1194.6,29,1,Regular
+BS-11800,Bryan Spruell,10886.800000000001,1851.5,21,1,Regular
+BS-1365,Bill Shonely,957.6,288.2,5,0,Low Value
+BS-1380,Bill Stewart,469.6,38.3,5,0,Low Value
+BS-1590,Brendan Sweed,819.6,262.3,5,0,Low Value
+BS-1665,Brian Stugart,5102.0,500.8,7,0,Low Value
+BS-1755,Bruce Stewart,1679.7,-697.7,5,0,Low Value
+BS-1800,Bryan Spruell,6364.900000000001,931.4000000000001,9,0,Low Value
+BT-11305,Beth Thompson,10322.1,908.4,24,1,Regular
+BT-11395,Bill Tyler,11347.5,2744.1,24,2,High Value
+BT-11440,Bobby Trafton,8264.199999999999,291.09999999999997,21,1,Regular
+BT-11485,Brad Thomas,8878.1,1170.8,29,1,Regular
+BT-11530,Bradley Talbott,13808.1,930.8000000000001,25,1,Regular
+BT-11680,Brian Thompson,14087.9,1663.6999999999998,22,1,Regular
+BT-1305,Beth Thompson,1306.1000000000001,-44.10000000000001,10,0,Low Value
+BT-1395,Bill Tyler,448.9,-199.1,4,0,Low Value
+BT-1440,Bobby Trafton,2132.7,-760.7,10,0,Low Value
+BT-1485,Brad Thomas,2804.0,-231.10000000000008,9,0,Low Value
+BT-1530,Bradley Talbott,1535.7,522.6,7,0,Low Value
+BT-1680,Brian Thompson,807.3000000000001,131.6,4,0,Low Value
+BV-11245,Benjamin Venier,20681.8,3415.0,22,2,High Value
+BV-1245,Benjamin Venier,684.3,-595.3000000000001,3,0,Low Value
+BW-1065,Barry Weirich,9027.6,3341.3,5,1,Regular
+BW-11065,Barry Weirich,8409.5,353.9,18,1,Regular
+BW-1110,Bart Watters,1696.9,258.3,10,0,Low Value
+BW-11110,Bart Watters,30614.0,3337.2,35,2,High Value
+BW-11200,Ben Wallace,11862.5,1568.0,29,1,Regular
+BW-1200,Ben Wallace,3105.9,784.1,4,0,Low Value
+CA-11965,Carol Adams,21110.7,3382.2000000000003,26,2,High Value
+CA-12055,Cathy Armstrong,10690.9,1738.6,22,1,Regular
+CA-12265,Christina Anderson,18473.2,3270.6,31,2,High Value
+CA-12310,Christine Abelman,7166.6,728.1,21,1,Regular
+CA-12775,Cynthia Arntzen,18350.9,4605.5,26,2,High Value
+CA-1965,Carol Adams,2883.2,-103.00000000000001,8,0,Low Value
+CA-2055,Cathy Armstrong,1601.7,131.4,3,0,Low Value
+CA-2265,Christina Anderson,3364.6,391.5,7,0,Low Value
+CA-2310,Christine Abelman,636.1,139.20000000000002,5,0,Low Value
+CA-2775,Cynthia Arntzen,1485.8999999999999,-714.1,4,0,Low Value
+CB-12025,Cassandra Brandow,11685.8,-98.69999999999997,25,1,Regular
+CB-12415,Christy Brittain,12705.6,2272.0,23,1,Regular
+CB-12535,Claudia Bergmann,18108.7,2402.2,27,2,High Value
+CB-2025,Cassandra Brandow,1841.0,307.7,5,0,Low Value
+CB-2415,Christy Brittain,1232.5,-184.70000000000002,4,0,Low Value
+CB-2535,Claudia Bergmann,147.1,-234.6,2,0,Low Value
+CC-12100,Chad Cunningham,11500.2,2384.2999999999997,25,1,Regular
+CC-12145,Charles Crestani,12190.7,1472.0,24,1,Regular
+CC-12220,Chris Cortes,7308.9,1315.8,32,1,Regular
+CC-12370,Christopher Conant,28230.1,3983.1,30,2,High Value
+CC-12430,Chuck Clark,13997.7,2780.2,29,2,High Value
+CC-12475,Cindy Chapman,17160.5,3120.4,30,2,High Value
+CC-12550,Clay Cheatham,7909.0,1167.2,25,1,Regular
+CC-12610,Corey Catlett,16822.4,2950.1,29,2,High Value
+CC-12670,Craig Carreira,9969.0,-549.5000000000001,28,1,Regular
+CC-12685,Craig Carroll,12798.6,693.7,20,1,Regular
+CC-2100,Chad Cunningham,1020.1,238.29999999999998,5,0,Low Value
+CC-2145,Charles Crestani,1158.3,-164.1,6,0,Low Value
+CC-2220,Chris Cortes,4174.4,1190.0,12,0,Low Value
+CC-2370,Christopher Conant,6957.3,1620.3,9,0,Low Value
+CC-2430,Chuck Clark,1041.6,160.6,2,0,Low Value
+CC-2475,Cindy Chapman,3710.0,914.6,7,0,Low Value
+CC-2550,Clay Cheatham,1433.4,357.1,5,0,Low Value
+CC-2610,Corey Catlett,782.4,52.7,3,0,Low Value
+CC-2670,Craig Carreira,1527.5,268.90000000000003,6,0,Low Value
+CC-2685,Craig Carroll,4019.5,1556.3,5,0,Low Value
+CD-11920,Carlos Daly,18297.3,4751.8,27,2,High Value
+CD-11980,Carol Darley,11848.0,1648.3000000000002,23,1,Regular
+CD-12280,Christina DeMoss,16779.9,2367.2,24,2,High Value
+CD-12790,Cynthia Delaney,13468.5,2080.4,25,1,Regular
+CD-1920,Carlos Daly,1821.3,277.2,4,0,Low Value
+CD-1980,Carol Darley,1380.2,232.0,7,0,Low Value
+CD-2280,Christina DeMoss,1205.1,224.4,7,0,Low Value
+CD-2790,Cynthia Delaney,1031.0,73.60000000000001,7,0,Low Value
+CG-12040,Catherine Glotzbach,3596.5,149.09999999999997,19,0,Low Value
+CG-12520,Claire Gute,13545.7,2397.9,18,1,Regular
+CG-2040,Catherine Glotzbach,519.1,-395.90000000000003,5,0,Low Value
+CG-2520,Claire Gute,1116.3,168.39999999999998,7,0,Low Value
+CH-12070,Cathy Hwang,11122.9,1493.3,21,1,Regular
+CH-2070,Cathy Hwang,4545.7,1177.9,8,0,Low Value
+CJ-11875,Carl Jackson,12538.8,1857.4,23,1,Regular
+CJ-12010,Caroline Jumper,19356.1,2387.0,26,2,High Value
+CJ-1875,Carl Jackson,1431.6,100.2,6,0,Low Value
+CJ-2010,Caroline Jumper,223.60000000000002,30.9,3,0,Low Value
+CK-12205,Chloris Kastensmidt,13625.3,1311.5,38,1,Regular
+CK-12325,Christine Kargatis,9927.6,849.4999999999999,27,1,Regular
+CK-12595,Clytie Kelty,16480.4,2175.7,33,2,High Value
+CK-12760,Cyma Kinney,6575.1,-100.29999999999997,26,1,Regular
+CK-2205,Chloris Kastensmidt,950.8000000000001,-345.5,5,0,Low Value
+CK-2325,Christine Kargatis,3125.4,531.0,8,0,Low Value
+CK-2595,Clytie Kelty,662.2,197.79999999999998,3,0,Low Value
+CK-2760,Cyma Kinney,4016.1,625.7,12,0,Low Value
+CL-11890,Carl Ludwig,17622.2,-247.3,31,1,Regular
+CL-12565,Clay Ludtke,17008.2,614.5,30,1,Regular
+CL-12700,Craig Leslie,17943.6,2563.3,31,2,High Value
+CL-1890,Carl Ludwig,560.9,83.4,9,0,Low Value
+CL-2565,Clay Ludtke,2775.6,708.9,6,0,Low Value
+CL-2700,Craig Leslie,1432.3,106.89999999999999,4,0,Low Value
+CM-11815,Candace McMahon,14363.0,-2881.6,23,1,Regular
+CM-11830,Cari MacIntyre,16828.7,2445.0,24,2,High Value
+CM-11935,Carlos Meador,9689.2,2081.2,18,1,Regular
+CM-12115,Chad McGuire,14658.300000000001,2164.7999999999997,20,1,Regular
+CM-12160,Charles McCrossin,17909.9,432.49999999999994,26,1,Regular
+CM-12190,Charlotte Melton,11374.9,598.7,25,1,Regular
+CM-12235,Chris McAfee,11377.6,1954.2,22,1,Regular
+CM-12385,Christopher Martinez,21883.0,3030.2,25,2,High Value
+CM-12445,Chuck Magee,11971.7,1188.0,25,1,Regular
+CM-12655,Corinna Mitchell,14188.6,-734.0,18,1,Regular
+CM-12715,Craig Molinari,8392.8,915.2,19,1,Regular
+CM-1815,Candace McMahon,431.90000000000003,82.8,5,0,Low Value
+CM-1830,Cari MacIntyre,4777.5,39.700000000000024,13,0,Low Value
+CM-1935,Carlos Meador,459.3,125.4,7,0,Low Value
+CM-2115,Chad McGuire,1907.4,277.6,3,0,Low Value
+CM-2160,Charles McCrossin,2246.0,314.09999999999997,5,0,Low Value
+CM-2190,Charlotte Melton,1451.6000000000001,-480.7999999999999,4,0,Low Value
+CM-2235,Chris McAfee,243.0,-66.3,5,0,Low Value
+CM-2385,Christopher Martinez,580.6999999999999,-19.899999999999995,4,0,Low Value
+CM-2445,Chuck Magee,1741.5,288.5,4,0,Low Value
+CM-2655,Corinna Mitchell,1389.7,-221.0,12,0,Low Value
+CM-2715,Craig Molinari,2838.4,294.90000000000003,7,0,Low Value
+CP-12085,Cathy Prescott,14183.800000000001,620.5,23,1,Regular
+CP-12340,Christine Phan,20109.3,183.3999999999999,30,1,Regular
+CP-2085,Cathy Prescott,5585.8,1130.2,10,0,Low Value
+CP-2340,Christine Phan,5044.599999999999,1565.2,4,0,Low Value
+CR-12580,Clay Rozendal,8700.6,818.0999999999999,20,1,Regular
+CR-12625,Corey Roper,17271.2,1478.7,28,1,Regular
+CR-12730,Craig Reiter,19488.2,1648.0,24,1,Regular
+CR-12820,Cyra Reiten,14470.7,3391.2,24,2,High Value
+CR-2580,Clay Rozendal,3057.2999999999997,1128.0,5,0,Low Value
+CR-2625,Corey Roper,5080.0,866.9000000000001,9,0,Low Value
+CR-2730,Craig Reiter,1359.5,-212.3,11,0,Low Value
+CR-2820,Cyra Reiten,1188.1,-78.30000000000001,8,0,Low Value
+CS-11845,Cari Sayre,20471.5,3275.0,26,2,High Value
+CS-11860,Cari Schnelling,10556.0,970.4,21,1,Regular
+CS-11950,Carlos Soltero,14223.1,-1148.3999999999999,31,1,Regular
+CS-12130,Chad Sievert,10981.3,641.5,22,1,Regular
+CS-12175,Charles Sheldon,16706.2,3113.8,29,2,High Value
+CS-12250,Chris Selesnick,12496.3,2210.7,30,1,Regular
+CS-12355,Christine Sundaresam,9241.2,-115.7,31,1,Regular
+CS-12400,Christopher Schild,10221.6,1373.2,23,1,Regular
+CS-12460,Chuck Sachs,20084.4,2801.2999999999997,23,2,High Value
+CS-12490,Cindy Schnelling,11110.7,-422.40000000000003,30,1,Regular
+CS-12505,Cindy Stewart,11535.3,-6437.3,16,0,Low Value
+CS-1845,Cari Sayre,1593.3000000000002,-359.8,8,0,Low Value
+CS-1860,Cari Schnelling,1618.7,349.59999999999997,9,0,Low Value
+CS-1950,Carlos Soltero,714.0,148.0,5,0,Low Value
+CS-2130,Chad Sievert,1367.2,-645.6,4,0,Low Value
+CS-2175,Charles Sheldon,3340.2,1214.5,5,0,Low Value
+CS-2250,Chris Selesnick,1917.6000000000001,391.59999999999997,4,0,Low Value
+CS-2355,Christine Sundaresam,1307.0,114.5,9,0,Low Value
+CS-2400,Christopher Schild,2293.0,706.9,5,0,Low Value
+CS-2460,Chuck Sachs,2671.3,141.69999999999996,8,0,Low Value
+CS-2490,Cindy Schnelling,1664.1000000000001,610.9,3,0,Low Value
+CS-2505,Cindy Stewart,1894.6000000000001,286.0,7,0,Low Value
+CT-11995,Carol Triggs,13715.9,2509.4,27,2,High Value
+CT-1995,Carol Triggs,422.8,-71.6,2,0,Low Value
+CV-12295,Christina VanderZanden,9042.4,1126.7,20,1,Regular
+CV-12805,Cynthia Voltz,9764.1,1737.7,20,1,Regular
+CV-2295,Christina VanderZanden,1283.1,-521.2,9,0,Low Value
+CV-2805,Cynthia Voltz,5088.9,172.80000000000007,7,0,Low Value
+CW-11905,Carl Weiss,12917.8,2635.8,25,2,High Value
+CW-1905,Carl Weiss,1436.2,371.5,4,0,Low Value
+CY-12745,Craig Yedwab,13928.5,1721.6,31,1,Regular
+CY-2745,Craig Yedwab,292.90000000000003,-179.0,4,0,Low Value
+Co-12640,Corey-Lock,12279.4,1294.9,25,1,Regular
+Co-2640,Corey-Lock,767.8,-98.99999999999999,5,0,Low Value
+DA-13450,Dianna Arnett,13035.4,-826.0999999999999,25,1,Regular
+DA-3450,Dianna Arnett,2212.1,528.3,4,0,Low Value
+DB-12910,Daniel Byrd,12338.1,782.0999999999999,27,1,Regular
+DB-12970,Darren Budd,9166.3,463.3,11,0,Low Value
+DB-13060,Dave Brooks,23477.1,3315.6,26,2,High Value
+DB-13120,David Bremer,5602.9,-2028.7,16,0,Low Value
+DB-13210,Dean Braden,13743.6,1480.2,27,1,Regular
+DB-13270,Deborah Brumfield,11690.6,1420.2,25,1,Regular
+DB-13360,Dennis Bolton,6919.9,848.3,28,1,Regular
+DB-13405,Denny Blanton,16084.3,1989.0,26,1,Regular
+DB-13555,Dorothy Badders,9415.6,942.9,22,1,Regular
+DB-13615,Doug Bickford,10031.6,1995.4,28,1,Regular
+DB-13660,Duane Benoit,11397.1,1267.3,20,1,Regular
+DB-2910,Daniel Byrd,3051.3,874.9,8,0,Low Value
+DB-2970,Darren Budd,512.9,123.80000000000001,4,0,Low Value
+DB-3060,Dave Brooks,2070.3,336.7,8,0,Low Value
+DB-3120,David Bremer,671.2,-242.20000000000002,4,0,Low Value
+DB-3210,Dean Braden,387.1,-54.400000000000006,7,0,Low Value
+DB-3270,Deborah Brumfield,886.4,219.7,2,0,Low Value
+DB-3360,Dennis Bolton,3691.4,1074.3,2,0,Low Value
+DB-3405,Denny Blanton,548.7,-30.299999999999997,2,0,Low Value
+DB-3555,Dorothy Badders,971.1,299.2,3,0,Low Value
+DB-3615,Doug Bickford,2824.3,972.3000000000001,4,0,Low Value
+DB-3660,Duane Benoit,2207.7,150.4,3,0,Low Value
+DC-12850,Dan Campbell,9307.7,-659.8,29,1,Regular
+DC-13285,Debra Catini,16164.699999999999,1043.3,23,1,Regular
+DC-2850,Dan Campbell,4131.1,589.0,9,0,Low Value
+DC-3285,Debra Catini,799.9,-178.1,4,0,Low Value
+DD-13570,Dorothy Dickinson,8741.6,959.9999999999999,24,1,Regular
+DD-3570,Dorothy Dickinson,2331.4,439.8,8,0,Low Value
+DE-13255,Deanra Eno,10085.5,1658.2,22,1,Regular
+DE-3255,Deanra Eno,2714.5,77.70000000000003,8,0,Low Value
+DF-13135,David Flashing,10240.4,474.20000000000005,18,1,Regular
+DF-3135,David Flashing,1301.8,-111.0,4,0,Low Value
+DG-13300,Deirdre Greer,13731.5,2067.2,28,1,Regular
+DG-3300,Deirdre Greer,2982.3999999999996,307.0,6,0,Low Value
+DH-13075,Dave Hallsten,14128.9,1371.1000000000001,25,1,Regular
+DH-13675,Duane Huffman,7817.5,843.1,17,1,Regular
+DH-3075,Dave Hallsten,2063.4,311.3,10,0,Low Value
+DH-3675,Duane Huffman,4661.900000000001,1308.2,12,0,Low Value
+DJ-13420,Denny Joy,22142.7,3173.3,28,2,High Value
+DJ-13510,Don Jones,15420.6,2696.0,31,2,High Value
+DJ-13630,Doug Jacobs,12560.0,2206.1,27,1,Regular
+DJ-3420,Denny Joy,419.6,82.30000000000001,4,0,Low Value
+DJ-3510,Don Jones,5976.8,1614.7,7,0,Low Value
+DJ-3630,Doug Jacobs,1293.8,469.8,6,0,Low Value
+DK-12835,Damala Kotsonis,17591.0,2631.8,32,2,High Value
+DK-12895,Dana Kaydos,18340.6,1081.1999999999998,22,1,Regular
+DK-12985,Darren Koutras,14824.1,1366.6000000000001,35,1,Regular
+DK-13090,Dave Kipp,19179.0,4004.2000000000003,36,2,High Value
+DK-13150,David Kendrick,15983.699999999999,2064.7000000000003,22,1,Regular
+DK-13225,Dean Katz,9246.9,898.6,29,1,Regular
+DK-13375,Dennis Kane,16259.2,2159.9,26,2,High Value
+DK-2835,Damala Kotsonis,3373.2,285.6,11,0,Low Value
+DK-2895,Dana Kaydos,1292.0,282.7,6,0,Low Value
+DK-2985,Darren Koutras,81.4,-78.9,1,0,Low Value
+DK-3090,Dave Kipp,273.7,76.1,3,0,Low Value
+DK-3150,David Kendrick,1577.9,114.7,14,0,Low Value
+DK-3225,Dean Katz,1408.1,108.8,8,0,Low Value
+DK-3375,Dennis Kane,3846.8,805.6999999999999,10,0,Low Value
+DL-12865,Dan Lawera,11186.1,280.4,34,1,Regular
+DL-12925,Daniel Lacy,11364.8,1411.8,21,1,Regular
+DL-13315,Delfina Latchford,18505.7,2265.1,27,2,High Value
+DL-13330,Denise Leinenbach,16782.2,2653.0,34,2,High Value
+DL-13495,Dionis Lloyd,15872.5,2474.9,27,2,High Value
+DL-2865,Dan Lawera,1503.1000000000001,145.7,7,0,Low Value
+DL-2925,Daniel Lacy,832.1,-303.4,7,0,Low Value
+DL-3315,Delfina Latchford,1747.0,533.2,6,0,Low Value
+DL-3330,Denise Leinenbach,1159.3,94.6,3,0,Low Value
+DL-3495,Dionis Lloyd,773.6,-914.0,5,0,Low Value
+DM-12955,Dario Medina,19862.7,2205.9,32,2,High Value
+DM-13015,Darrin Martin,15627.1,1531.1,30,1,Regular
+DM-13345,Denise Monton,17055.4,2877.0,27,2,High Value
+DM-13525,Don Miller,9640.7,-925.4,19,1,Regular
+DM-2955,Dario Medina,2437.4,100.69999999999996,9,0,Low Value
+DM-3015,Darrin Martin,2105.8,460.90000000000003,6,0,Low Value
+DM-3345,Denise Monton,4998.400000000001,-5474.7,6,0,Low Value
+DM-3525,Don Miller,2191.2,652.2,6,0,Low Value
+DN-13690,Duane Noonan,13098.2,711.8,24,1,Regular
+DN-3690,Duane Noonan,1815.9,-478.0,5,0,Low Value
+DO-13435,Denny Ordway,15280.8,3207.1000000000004,32,2,High Value
+DO-13645,Doug O'Connell,12084.0,1998.3,25,1,Regular
+DO-3435,Denny Ordway,3515.6,930.4,10,0,Low Value
+DO-3645,Doug O'Connell,1689.3999999999999,-181.0,5,0,Low Value
+DP-13000,Darren Powers,13883.1,-949.7,31,1,Regular
+DP-13105,Dave Poirier,18930.6,3100.2,25,2,High Value
+DP-13165,David Philippe,22211.4,1808.6000000000001,25,2,High Value
+DP-13390,Dennis Pardue,10283.0,2369.9,27,1,Regular
+DP-3000,Darren Powers,2093.8,432.1,10,0,Low Value
+DP-3105,Dave Poirier,6970.599999999999,1500.3000000000002,6,0,Low Value
+DP-3165,David Philippe,1517.8999999999999,-973.7,6,0,Low Value
+DP-3390,Dennis Pardue,1376.1,318.3,6,0,Low Value
+DR-12880,Dan Reichenbach,14415.8,2112.5,32,1,Regular
+DR-12940,Daniel Raglin,25641.9,5506.0,33,2,High Value
+DR-2880,Dan Reichenbach,2291.3,-128.1,8,0,Low Value
+DR-2940,Daniel Raglin,2288.4,598.0,8,0,Low Value
+DS-13030,Darrin Sayre,11644.4,1068.3,26,1,Regular
+DS-13180,David Smith,13447.7,1669.7,31,1,Regular
+DS-3030,Darrin Sayre,1636.4,419.4,6,0,Low Value
+DS-3180,David Smith,185.1,43.6,2,0,Low Value
+DV-13045,Darrin Van Huff,18106.4,599.0,24,1,Regular
+DV-13465,Dianna Vittorini,12911.3,2167.8,20,1,Regular
+DV-3045,Darrin Van Huff,4640.5,17.599999999999984,13,0,Low Value
+DV-3465,Dianna Vittorini,4037.9,1175.1,5,0,Low Value
+DW-13195,David Wiener,9689.3,1623.7,26,1,Regular
+DW-13480,Dianna Wilson,16337.3,3315.8,23,2,High Value
+DW-13540,Don Weiss,13166.3,1472.2,20,1,Regular
+DW-13585,Dorothy Wardle,12143.3,821.8000000000001,37,1,Regular
+DW-3195,David Wiener,1241.2,115.8,4,0,Low Value
+DW-3480,Dianna Wilson,7117.9,1713.5,12,0,Low Value
+DW-3540,Don Weiss,1216.6,-1046.3,4,0,Low Value
+DW-3585,Dorothy Wardle,461.8,48.8,4,0,Low Value
+Dl-13600,Dorris liebe,11912.7,1722.7,20,1,Regular
+Dl-3600,Dorris liebe,2809.0,128.7,10,0,Low Value
+Dp-13240,Dean percer,22226.0,3822.7999999999997,28,2,High Value
+Dp-3240,Dean percer,609.4,136.4,7,0,Low Value
+EA-14035,Erin Ashbrook,11387.2,866.8,31,1,Regular
+EA-4035,Erin Ashbrook,131.8,0.8999999999999986,3,0,Low Value
+EB-13705,Ed Braxton,12382.1,893.9999999999999,30,1,Regular
+EB-13750,Edward Becker,8489.9,1368.8,20,1,Regular
+EB-13840,Ellis Ballard,20188.3,5466.4,25,2,High Value
+EB-13870,Emily Burns,6851.2,187.3,19,1,Regular
+EB-13930,Eric Barreto,9533.8,1385.6000000000001,18,1,Regular
+EB-13975,Erica Bern,13405.5,2653.5,32,2,High Value
+EB-14110,Eugene Barchas,13665.4,3285.7000000000003,24,2,High Value
+EB-14170,Evan Bailliet,6736.5,276.8,23,1,Regular
+EB-3705,Ed Braxton,3141.8,594.5,3,0,Low Value
+EB-3750,Edward Becker,939.2,118.30000000000001,6,0,Low Value
+EB-3840,Ellis Ballard,1797.6,382.29999999999995,6,0,Low Value
+EB-3870,Emily Burns,184.8,-166.9,5,0,Low Value
+EB-3930,Eric Barreto,2433.5,706.3000000000001,9,0,Low Value
+EB-3975,Erica Bern,2713.7,377.1,9,0,Low Value
+EB-4110,Eugene Barchas,2417.7999999999997,-392.0,10,0,Low Value
+EB-4170,Evan Bailliet,1267.6,288.8,6,0,Low Value
+EC-14050,Erin Creighton,4430.4,424.3,19,0,Low Value
+EC-4050,Erin Creighton,2301.2999999999997,408.0,7,0,Low Value
+ED-13885,Emily Ducich,18019.3,2933.3,31,2,High Value
+ED-3885,Emily Ducich,525.4,-360.8,8,0,Low Value
+EG-13900,Emily Grady,16562.4,3360.7,21,2,High Value
+EG-3900,Emily Grady,6550.0,-756.3,11,0,Low Value
+EH-13765,Edward Hooks,20260.3,1686.1,29,2,High Value
+EH-13945,Eric Hoffmann,7833.0,1551.0,27,1,Regular
+EH-13990,Erica Hackney,8807.199999999999,1552.0,26,1,Regular
+EH-14005,Erica Hernandez,10375.1,285.19999999999993,28,1,Regular
+EH-14125,Eugene Hildebrand,17408.6,2105.8,31,2,High Value
+EH-14185,Evan Henry,12800.699999999999,1241.7,29,1,Regular
+EH-3765,Edward Hooks,1010.3,-1014.8000000000001,9,0,Low Value
+EH-3945,Eric Hoffmann,2518.7,699.1,9,0,Low Value
+EH-3990,Erica Hackney,672.5,4.5000000000000036,6,0,Low Value
+EH-4005,Erica Hernandez,2629.8,509.0,7,0,Low Value
+EH-4125,Eugene Hildebrand,5012.3,-445.69999999999993,13,0,Low Value
+EH-4185,Evan Henry,3577.9,1039.7,8,0,Low Value
+EJ-13720,Ed Jacobs,8969.5,1013.4,22,1,Regular
+EJ-14155,Eva Jacobs,12324.8,1974.9,23,1,Regular
+EJ-3720,Ed Jacobs,1728.0,197.0,8,0,Low Value
+EJ-4155,Eva Jacobs,2632.0,819.4,5,0,Low Value
+EK-13795,Eileen Kiefer,5597.5,593.3000000000001,17,0,Low Value
+EK-3795,Eileen Kiefer,1531.2,172.4,6,0,Low Value
+EL-13735,Ed Ludwig,10515.8,1142.7,23,1,Regular
+EL-3735,Ed Ludwig,3691.4,13.09999999999997,11,0,Low Value
+EM-13810,Eleni McCrary,13549.9,1664.8,23,1,Regular
+EM-13825,Elizabeth Moffitt,14128.1,2018.2,26,1,Regular
+EM-13960,Eric Murdock,25229.2,2594.3,37,2,High Value
+EM-14065,Erin Mull,12108.5,3017.8,17,2,High Value
+EM-14095,Eudokia Martin,10889.8,1685.1,17,1,Regular
+EM-14140,Eugene Moren,21507.7,3683.1,30,2,High Value
+EM-14200,Evan Minnotte,17087.9,3138.3,23,2,High Value
+EM-3810,Eleni McCrary,1032.9,232.70000000000002,6,0,Low Value
+EM-3825,Elizabeth Moffitt,378.2,-30.199999999999996,6,0,Low Value
+EM-3960,Eric Murdock,2856.0,712.1,8,0,Low Value
+EM-4065,Erin Mull,3213.2,921.7,9,0,Low Value
+EM-4095,Eudokia Martin,2833.6,79.69999999999999,9,0,Low Value
+EM-4140,Eugene Moren,1900.9,-58.8,6,0,Low Value
+EM-4200,Evan Minnotte,2585.9,509.0,4,0,Low Value
+EN-13780,Edward Nazzal,6333.900000000001,478.70000000000005,20,1,Regular
+EN-3780,Edward Nazzal,735.0,-240.7,8,0,Low Value
+EP-13915,Emily Phan,16283.9,2160.0,33,2,High Value
+EP-3915,Emily Phan,488.0,-55.59999999999999,3,0,Low Value
+ER-13855,Elpida Rittenbach,13396.1,2211.9,19,1,Regular
+ER-3855,Elpida Rittenbach,3736.5,373.8,7,0,Low Value
+ES-14020,Erica Smith,12827.8,2761.3,32,2,High Value
+ES-14080,Erin Smith,16236.3,1925.3000000000002,24,1,Regular
+ES-4020,Erica Smith,1892.9,366.0,7,0,Low Value
+ES-4080,Erin Smith,1925.6,250.0,9,0,Low Value
+FA-14230,Frank Atkinson,13535.300000000001,1245.8,29,1,Regular
+FA-4230,Frank Atkinson,814.5,250.89999999999998,6,0,Low Value
+FC-14245,Frank Carlisle,10867.9,2492.3,23,1,Regular
+FC-14335,Fred Chung,8771.2,1330.1,23,1,Regular
+FC-4245,Frank Carlisle,1540.6,288.5,6,0,Low Value
+FC-4335,Fred Chung,550.9,166.9,4,0,Low Value
+FG-14260,Frank Gastineau,9396.6,1158.2,18,1,Regular
+FG-4260,Frank Gastineau,308.2,-124.0,9,0,Low Value
+FH-14275,Frank Hawley,13569.9,3539.4,23,2,High Value
+FH-14350,Fred Harton,10654.5,2959.8,20,2,High Value
+FH-14365,Fred Hopkins,27649.4,4101.6,30,2,High Value
+FH-4275,Frank Hawley,113.1,8.1,5,0,Low Value
+FH-4350,Fred Harton,110.39999999999999,-71.80000000000001,3,0,Low Value
+FH-4365,Fred Hopkins,2751.4,507.5,9,0,Low Value
+FM-14215,Filia McAdams,14353.8,1000.8,31,1,Regular
+FM-14290,Frank Merwin,14382.6,2191.7000000000003,30,1,Regular
+FM-14380,Fred McMath,6598.7,1461.4,21,1,Regular
+FM-4215,Filia McAdams,2935.7999999999997,393.1,6,0,Low Value
+FM-4290,Frank Merwin,2002.8,409.6,8,0,Low Value
+FM-4380,Fred McMath,843.5,-445.5,6,0,Low Value
+FO-14305,Frank Olsen,15614.6,2567.6,37,2,High Value
+FO-4305,Frank Olsen,2158.3,456.5,10,0,Low Value
+FP-14320,Frank Preis,9939.3,840.6999999999999,29,1,Regular
+FP-4320,Frank Preis,816.6,96.49999999999999,5,0,Low Value
+FW-14395,Fred Wasserman,16973.0,1651.8999999999999,26,1,Regular
+FW-4395,Fred Wasserman,1220.8,32.1,8,0,Low Value
+GA-14515,George Ashbrook,12489.4,1108.2,24,1,Regular
+GA-14725,Guy Armstrong,8817.5,1012.5,24,1,Regular
+GA-4515,George Ashbrook,1318.3,-316.09999999999997,7,0,Low Value
+GA-4725,Guy Armstrong,1460.7,-240.29999999999998,4,0,Low Value
+GB-14530,George Bell,11658.0,560.6,25,1,Regular
+GB-14575,Giulietta Baptist,10749.2,1621.1,24,1,Regular
+GB-4530,George Bell,525.9,95.7,5,0,Low Value
+GB-4575,Giulietta Baptist,1821.9,12.200000000000014,6,0,Low Value
+GD-14590,Giulietta Dortch,18004.8,1826.3,29,2,High Value
+GD-4590,Giulietta Dortch,700.6999999999999,61.7,4,0,Low Value
+GG-14650,Greg Guthrie,12903.0,1491.8,28,1,Regular
+GG-4650,Greg Guthrie,1000.4000000000001,32.0,5,0,Low Value
+GH-14410,Gary Hansen,13660.1,47.69999999999993,36,1,Regular
+GH-14425,Gary Hwang,20040.0,3375.0,31,2,High Value
+GH-14485,Gene Hale,14692.9,2200.6,21,1,Regular
+GH-14665,Greg Hansen,12921.7,1877.8,29,1,Regular
+GH-4410,Gary Hansen,1610.3,566.4,9,0,Low Value
+GH-4425,Gary Hwang,4585.900000000001,532.8,10,0,Low Value
+GH-4485,Gene Hale,794.7,95.3,4,0,Low Value
+GH-4665,Greg Hansen,1077.3,-293.4,9,0,Low Value
+GK-14620,Grace Kelly,19215.6,3611.1,24,2,High Value
+GK-4620,Grace Kelly,764.6,-115.9,4,0,Low Value
+GM-14440,Gary McGarr,15782.800000000001,1431.3999999999999,26,1,Regular
+GM-14455,Gary Mitchum,10524.0,3106.4,17,2,High Value
+GM-14500,Gene McClure,6704.3,531.5,23,1,Regular
+GM-14680,Greg Matthias,12010.6,-1805.0,31,1,Regular
+GM-14695,Greg Maxwell,14565.1,-71.1,19,1,Regular
+GM-4440,Gary McGarr,735.3,233.79999999999998,8,0,Low Value
+GM-4455,Gary Mitchum,488.3,-234.0,4,0,Low Value
+GM-4500,Gene McClure,4298.5,1021.8000000000001,5,0,Low Value
+GM-4680,Greg Matthias,1590.4,467.0,6,0,Low Value
+GM-4695,Greg Maxwell,791.5,60.000000000000014,7,0,Low Value
+GP-14740,Guy Phonely,10794.1,377.59999999999997,25,1,Regular
+GP-4740,Guy Phonely,4610.2,872.3999999999999,8,0,Low Value
+GR-14560,Georgia Rosenberg,8895.2,1030.8,24,1,Regular
+GR-4560,Georgia Rosenberg,4955.6,-534.6,6,0,Low Value
+GT-14635,Grant Thornton,19080.1,-3789.8,20,1,Regular
+GT-14710,Greg Tran,34472.1,5165.0,30,2,High Value
+GT-14755,Guy Thornton,5601.8,593.1999999999999,23,1,Regular
+GT-4635,Grant Thornton,1145.0,212.3,7,0,Low Value
+GT-4710,Greg Tran,1079.1,49.30000000000002,4,0,Low Value
+GT-4755,Guy Thornton,3457.5,190.89999999999998,8,0,Low Value
+GW-14605,Giulietta Weimer,16239.8,934.8000000000001,25,1,Regular
+GW-4605,Giulietta Weimer,1830.8,264.4,8,0,Low Value
+GZ-14470,Gary Zandusky,20869.9,2886.0,35,2,High Value
+GZ-14545,George Zrebassa,11593.9,2645.1,24,1,Regular
+GZ-4470,Gary Zandusky,3835.8,856.6,8,0,Low Value
+GZ-4545,George Zrebassa,3698.2999999999997,1460.3000000000002,6,0,Low Value
+HA-14905,Helen Abelman,15827.4,-526.4,24,1,Regular
+HA-14920,Helen Andreada,9740.4,1457.5,25,1,Regular
+HA-4905,Helen Abelman,1106.5,-235.6,4,0,Low Value
+HA-4920,Helen Andreada,670.7,103.80000000000001,6,0,Low Value
+HD-14785,Harold Dahlen,16749.3,1803.1000000000001,29,1,Regular
+HD-4785,Harold Dahlen,3325.6,827.9,7,0,Low Value
+HE-14800,Harold Engle,9902.7,1569.9999999999998,27,1,Regular
+HE-4800,Harold Engle,1091.3,140.5,8,0,Low Value
+HF-14995,Herbert Flentye,9713.1,-475.0,28,1,Regular
+HF-4995,Herbert Flentye,2100.0,-178.2,8,0,Low Value
+HG-14845,Harry Greene,21228.4,-824.3000000000001,30,1,Regular
+HG-14965,Henry Goldwyn,16810.8,-1606.9999999999998,34,1,Regular
+HG-15025,Hunter Glantz,14737.9,1357.8,29,1,Regular
+HG-4845,Harry Greene,2988.1,532.3,9,0,Low Value
+HG-4965,Henry Goldwyn,354.59999999999997,9.800000000000006,5,0,Low Value
+HG-5025,Hunter Glantz,1476.5,175.4,7,0,Low Value
+HH-15010,Hilary Holden,13732.0,2109.1,24,1,Regular
+HH-5010,Hilary Holden,1497.5,323.1,3,0,Low Value
+HJ-14875,Heather Jas,14312.3,2323.9,32,2,High Value
+HJ-4875,Heather Jas,1121.4,294.1,6,0,Low Value
+HK-14890,Heather Kirkland,13886.8,2307.5,27,1,Regular
+HK-4890,Heather Kirkland,1657.1,187.9,6,0,Low Value
+HL-15040,Hunter Lopez,29664.3,7657.599999999999,20,2,High Value
+HL-5040,Hunter Lopez,579.3,159.0,4,0,Low Value
+HM-14860,Harry Marie,27434.5,6545.0,37,2,High Value
+HM-14980,Henry MacAllister,12719.0,1044.6000000000001,29,1,Regular
+HM-4860,Harry Marie,1042.7,413.5,4,0,Low Value
+HM-4980,Henry MacAllister,4409.4,1628.5,5,0,Low Value
+HP-14815,Harold Pawlan,7321.4,636.1999999999999,24,1,Regular
+HP-4815,Harold Pawlan,1196.7,243.9,5,0,Low Value
+HR-14770,Hallie Redmond,11127.1,1182.8999999999999,18,1,Regular
+HR-14830,Harold Ryan,9637.3,1517.9,21,1,Regular
+HR-4770,Hallie Redmond,4550.1,522.5,8,0,Low Value
+HR-4830,Harold Ryan,391.9,-61.89999999999999,3,0,Low Value
+HW-14935,Helen Wasserman,17199.3,2654.0,28,2,High Value
+HW-4935,Helen Wasserman,1174.8,-98.60000000000002,7,0,Low Value
+HZ-14950,Henia Zydlo,9656.5,1004.0,22,1,Regular
+HZ-4950,Henia Zydlo,2830.4,-262.0,6,0,Low Value
+IG-15085,Ivan Gibson,10383.1,657.6999999999999,25,1,Regular
+IG-5085,Ivan Gibson,5766.2,1253.8,12,0,Low Value
+IL-15100,Ivan Liston,11802.7,1244.3999999999999,25,1,Regular
+IL-5100,Ivan Liston,1052.8,-63.0,7,0,Low Value
+IM-15055,Ionia McGrath,5155.0,1533.8,15,0,Low Value
+IM-15070,Irene Maddox,17854.5,-567.4000000000001,27,1,Regular
+IM-5055,Ionia McGrath,4325.0,914.0,7,0,Low Value
+IM-5070,Irene Maddox,2064.2999999999997,-112.49999999999997,7,0,Low Value
+JA-15970,Joseph Airdo,17105.8,689.4000000000001,25,1,Regular
+JA-5970,Joseph Airdo,1057.3,153.4,7,0,Low Value
+JB-15400,Jennifer Braxton,13085.699999999999,1992.5,34,1,Regular
+JB-15925,Joni Blumstein,12325.800000000001,1649.4999999999998,19,1,Regular
+JB-16000,Joy Bell-,22127.2,2936.5,32,2,High Value
+JB-16045,Julia Barnett,13851.4,778.6,24,1,Regular
+JB-5400,Jennifer Braxton,2172.0,459.5,7,0,Low Value
+JB-5925,Joni Blumstein,1012.2,-518.6,8,0,Low Value
+JB-6000,Joy Bell-,1881.0,-68.39999999999999,7,0,Low Value
+JB-6045,Julia Barnett,3235.8,-529.6,10,0,Low Value
+JC-15340,Jasper Cacioppo,17836.100000000002,239.10000000000008,29,1,Regular
+JC-15385,Jenna Caffey,12979.0,2086.9,25,1,Regular
+JC-15775,John Castell,10582.7,1820.7,25,1,Regular
+JC-16105,Julie Creighton,11079.4,712.6,28,1,Regular
+JC-5340,Jasper Cacioppo,606.1,98.6,6,0,Low Value
+JC-5385,Jenna Caffey,3183.0,-782.2,9,0,Low Value
+JC-5775,John Castell,1712.5,37.800000000000004,5,0,Low Value
+JC-6105,Julie Creighton,3914.8999999999996,-2601.5,6,0,Low Value
+JD-15790,John Dryer,10267.8,-293.50000000000006,24,1,Regular
+JD-15895,Jonathan Doherty,16711.4,1430.7,32,1,Regular
+JD-16015,Joy Daniels,8690.9,-29.69999999999998,24,1,Regular
+JD-16060,Julia Dunbar,7683.4,-24.199999999999996,19,1,Regular
+JD-16150,Justin Deggeller,18281.7,1430.3,28,1,Regular
+JD-5790,John Dryer,1323.1,-905.1,5,0,Low Value
+JD-5895,Jonathan Doherty,2770.7,296.19999999999993,6,0,Low Value
+JD-6015,Joy Daniels,2652.7,-575.1,8,0,Low Value
+JD-6060,Julia Dunbar,3541.4,588.9,9,0,Low Value
+JD-6150,Justin Deggeller,5330.0,1194.8,6,0,Low Value
+JE-15475,Jeremy Ellison,5905.1,1223.5,22,1,Regular
+JE-15610,Jim Epp,13192.6,1779.8,26,1,Regular
+JE-15715,Joe Elijah,22275.5,3648.2000000000003,36,2,High Value
+JE-15745,Joel Eaton,19629.5,1123.5,35,1,Regular
+JE-16165,Justin Ellison,8352.7,1839.9,20,1,Regular
+JE-5475,Jeremy Ellison,914.4,95.0,8,0,Low Value
+JE-5610,Jim Epp,756.9,-408.1,6,0,Low Value
+JE-5715,Joe Elijah,180.4,-27.1,7,0,Low Value
+JE-5745,Joel Eaton,2275.6,405.2,7,0,Low Value
+JE-6165,Justin Ellison,4555.7,1088.5,8,0,Low Value
+JF-15190,Jamie Frazer,17065.2,4108.7,28,2,High Value
+JF-15295,Jason Fortune-,20382.3,3263.4,24,2,High Value
+JF-15355,Jay Fein,7343.8,1016.6,22,1,Regular
+JF-15415,Jennifer Ferguson,14718.0,1396.8999999999999,23,1,Regular
+JF-15490,Jeremy Farry,9234.4,1048.0,30,1,Regular
+JF-15565,Jill Fjeld,19844.6,4329.9,29,2,High Value
+JF-5190,Jamie Frazer,3510.0,-2386.0,8,0,Low Value
+JF-5295,Jason Fortune-,2433.9,-570.6999999999999,8,0,Low Value
+JF-5355,Jay Fein,3476.0,-2891.3,9,0,Low Value
+JF-5415,Jennifer Ferguson,8227.0,1270.3,11,0,Low Value
+JF-5490,Jeremy Farry,1487.5,151.9,7,0,Low Value
+JF-5565,Jill Fjeld,3776.8,547.6999999999999,6,0,Low Value
+JG-15115,Jack Garza,12801.9,1161.9,19,1,Regular
+JG-15160,James Galang,19963.7,4499.3,32,2,High Value
+JG-15310,Jason Gross,12734.0,2096.0,24,1,Regular
+JG-15805,John Grady,22015.7,3392.9,37,2,High Value
+JG-5115,Jack Garza,2907.7,-2083.7,9,0,Low Value
+JG-5160,James Galang,1588.1,50.099999999999994,8,0,Low Value
+JG-5310,Jason Gross,837.0,158.7,5,0,Low Value
+JG-5805,John Grady,208.4,-112.39999999999999,3,0,Low Value
+JH-15430,Jennifer Halladay,11806.3,1477.5,31,1,Regular
+JH-15820,John Huston,23587.3,4829.5,31,2,High Value
+JH-15910,Jonathan Howell,12532.7,1635.3,32,1,Regular
+JH-15985,Joseph Holt,18863.5,-183.1,38,1,Regular
+JH-16180,Justin Hirsh,18266.7,2588.1,31,2,High Value
+JH-5430,Jennifer Halladay,883.6,113.5,9,0,Low Value
+JH-5820,John Huston,2359.1,566.0,7,0,Low Value
+JH-5910,Jonathan Howell,4014.1,-930.3,8,0,Low Value
+JH-5985,Joseph Holt,2073.4,569.8,7,0,Low Value
+JH-6180,Justin Hirsh,5651.900000000001,1406.5,9,0,Low Value
+JJ-15445,Jennifer Jackson,9697.1,1054.3000000000002,19,1,Regular
+JJ-15760,Joel Jenkins,18104.1,1755.5,28,1,Regular
+JJ-5445,Jennifer Jackson,2490.2,-31.69999999999997,6,0,Low Value
+JJ-5760,Joel Jenkins,1890.2,93.29999999999998,6,0,Low Value
+JK-15205,Jamie Kunitz,10917.4,2359.7,24,1,Regular
+JK-15325,Jason Klamczynski,17001.4,2059.4,28,2,High Value
+JK-15370,Jay Kimmel,10190.0,1813.2,27,1,Regular
+JK-15625,Jim Karlsson,12754.4,2805.7,27,2,High Value
+JK-15640,Jim Kriz,12637.6,2651.2,26,2,High Value
+JK-15730,Joe Kamberova,20826.2,2283.6,34,2,High Value
+JK-16090,Juliana Krohn,21919.0,3195.5,33,2,High Value
+JK-16120,Julie Kriz,13134.8,1594.7,26,1,Regular
+JK-5205,Jamie Kunitz,1617.6,404.2,5,0,Low Value
+JK-5325,Jason Klamczynski,203.39999999999998,-36.9,3,0,Low Value
+JK-5370,Jay Kimmel,3211.3,-263.6,6,0,Low Value
+JK-5625,Jim Karlsson,4364.900000000001,1170.8,8,0,Low Value
+JK-5640,Jim Kriz,428.4,103.2,4,0,Low Value
+JK-5730,Joe Kamberova,5863.3,2089.6,6,0,Low Value
+JK-6090,Juliana Krohn,1215.5,-1397.2,5,0,Low Value
+JK-6120,Julie Kriz,2513.3,299.8,6,0,Low Value
+JL-15130,Jack Lebron,12908.3,967.9,28,1,Regular
+JL-15175,James Lanier,13500.2,1267.9,27,1,Regular
+JL-15235,Janet Lee,18725.1,4370.8,24,2,High Value
+JL-15505,Jeremy Lonsdale,8631.8,644.1,22,1,Regular
+JL-15835,John Lee,22594.3,1576.7,30,2,High Value
+JL-15850,John Lucas,8497.9,988.3,22,1,Regular
+JL-5130,Jack Lebron,5765.5,72.5,12,0,Low Value
+JL-5175,James Lanier,1353.2,433.09999999999997,5,0,Low Value
+JL-5235,Janet Lee,1751.6,359.8,4,0,Low Value
+JL-5505,Jeremy Lonsdale,2729.3999999999996,542.0,3,0,Low Value
+JL-5835,John Lee,3388.4,816.6,7,0,Low Value
+JL-5850,John Lucas,2003.5,-634.0,4,0,Low Value
+JM-15250,Janet Martin,15594.4,2152.6,24,1,Regular
+JM-15265,Janet Molinari,15036.8,2623.8,29,2,High Value
+JM-15535,Jessica Myrick,6942.5,1460.6,20,1,Regular
+JM-15580,Jill Matthias,13296.2,1540.5,24,1,Regular
+JM-15655,Jim Mitchum,16295.4,1190.1999999999998,34,1,Regular
+JM-15865,John Murray,20842.1,2233.9,29,2,High Value
+JM-16195,Justin MacKendrick,7825.4,1314.3,25,1,Regular
+JM-5250,Janet Martin,2424.4,-488.00000000000006,5,0,Low Value
+JM-5265,Janet Molinari,1132.1,156.29999999999998,4,0,Low Value
+JM-5535,Jessica Myrick,847.9,-101.5,5,0,Low Value
+JM-5580,Jill Matthias,880.2,176.5,5,0,Low Value
+JM-5655,Jim Mitchum,3602.7,608.4,8,0,Low Value
+JM-5865,John Murray,1544.2,83.99999999999999,6,0,Low Value
+JM-6195,Justin MacKendrick,1200.3,205.7,8,0,Low Value
+JO-15145,Jack O'Briant,10441.2,2280.3,23,1,Regular
+JO-15280,Jas O'Carroll,7123.6,1203.0,21,1,Regular
+JO-15550,Jesus Ocampo,4003.4,541.4,19,0,Low Value
+JO-5145,Jack O'Briant,2904.9,764.3,6,0,Low Value
+JO-5280,Jas O'Carroll,1695.0,702.6999999999999,4,0,Low Value
+JO-5550,Jesus Ocampo,4203.7,41.39999999999999,9,0,Low Value
+JP-15460,Jennifer Patt,10916.6,1640.0,26,1,Regular
+JP-15520,Jeremy Pistek,16429.5,2854.9,26,2,High Value
+JP-16135,Julie Prescott,10163.6,2036.1,34,1,Regular
+JP-5460,Jennifer Patt,3294.0,439.59999999999997,10,0,Low Value
+JP-5520,Jeremy Pistek,2227.6,315.4,4,0,Low Value
+JP-6135,Julie Prescott,4432.6,1442.9,8,0,Low Value
+JR-15670,Jim Radford,13338.1,-1186.1,20,1,Regular
+JR-15700,Jocasta Rupert,9568.2,816.0,18,1,Regular
+JR-16210,Justin Ritter,12590.0,1222.2,21,1,Regular
+JR-5670,Jim Radford,2585.2000000000003,425.4,6,0,Low Value
+JR-5700,Jocasta Rupert,1673.1,116.6,6,0,Low Value
+JR-6210,Justin Ritter,1033.3,84.8,6,0,Low Value
+JS-15595,Jill Stevenson,9334.9,562.5,18,1,Regular
+JS-15685,Jim Sink,14338.5,1848.4,26,1,Regular
+JS-15880,John Stevenson,10442.9,1471.0,20,1,Regular
+JS-15940,Joni Sundaresam,3874.9,-27.100000000000023,15,0,Low Value
+JS-16030,Joy Smith,19219.0,-675.1999999999999,32,1,Regular
+JS-5595,Jill Stevenson,806.6,-723.6,6,0,Low Value
+JS-5685,Jim Sink,1944.0,502.40000000000003,5,0,Low Value
+JS-5880,John Stevenson,1746.2,-979.8,6,0,Low Value
+JS-5940,Joni Sundaresam,2927.2999999999997,38.799999999999976,13,0,Low Value
+JS-6030,Joy Smith,1572.9,572.5,4,0,Low Value
+JW-15220,Jane Waco,23104.0,4115.4,34,2,High Value
+JW-15955,Joni Wasserman,10640.9,624.9,30,1,Regular
+JW-16075,Julia West,19852.8,2677.6,25,2,High Value
+JW-5220,Jane Waco,7184.7,2150.7,6,0,Low Value
+JW-5955,Joni Wasserman,307.8,32.3,2,0,Low Value
+JW-6075,Julia West,747.2,272.5,4,0,Low Value
+KA-16525,Kelly Andreada,17450.2,1299.7,35,1,Regular
+KA-6525,Kelly Andreada,1429.8,101.49999999999997,7,0,Low Value
+KB-16240,Karen Bern,9900.8,1801.7,27,1,Regular
+KB-16315,Karl Braun,14543.1,1419.8,29,1,Regular
+KB-16405,Katrina Bavinger,13786.6,724.1,28,1,Regular
+KB-16585,Ken Black,16385.8,1398.4,27,1,Regular
+KB-16600,Ken Brennan,10296.0,887.6999999999999,25,1,Regular
+KB-6240,Karen Bern,1945.2,517.4,7,0,Low Value
+KB-6315,Karl Braun,2958.0,365.7,11,0,Low Value
+KB-6405,Katrina Bavinger,238.5,-105.7,3,0,Low Value
+KB-6585,Ken Black,216.8,-47.2,2,0,Low Value
+KB-6600,Ken Brennan,1168.0,158.9,11,0,Low Value
+KC-16255,Karen Carlisle,9322.0,2139.6,27,1,Regular
+KC-16540,Kelly Collister,18897.2,2344.2,25,2,High Value
+KC-16675,Kimberly Carter,13531.2,2265.9,23,1,Regular
+KC-6255,Karen Carlisle,1094.5,-160.2,8,0,Low Value
+KC-6540,Kelly Collister,505.90000000000003,14.200000000000006,7,0,Low Value
+KC-6675,Kimberly Carter,391.9,-120.89999999999999,3,0,Low Value
+KD-16270,Karen Daniels,23204.3,3914.1,29,2,High Value
+KD-16345,Katherine Ducich,11157.4,2363.0,15,1,Regular
+KD-16495,Keith Dawkins,24997.1,5153.4,36,2,High Value
+KD-16615,Ken Dana,12348.5,1720.7,24,1,Regular
+KD-6270,Karen Daniels,813.1,-1023.5,1,0,Low Value
+KD-6345,Katherine Ducich,536.4,65.7,6,0,Low Value
+KD-6495,Keith Dawkins,1454.6,333.2,4,0,Low Value
+KD-6615,Ken Dana,206.0,30.2,3,0,Low Value
+KE-16420,Katrina Edelman,12928.8,1186.1,31,1,Regular
+KE-6420,Katrina Edelman,622.4,100.4,4,0,Low Value
+KF-16285,Karen Ferguson,15165.3,2976.8,21,2,High Value
+KF-6285,Karen Ferguson,3100.2,-591.3,9,0,Low Value
+KH-16330,Katharine Harms,15045.8,3205.8,26,2,High Value
+KH-16360,Katherine Hughes,9983.7,1542.4,28,1,Regular
+KH-16510,Keith Herrera,15340.6,1713.3999999999999,26,1,Regular
+KH-16630,Ken Heidel,7221.1,1205.7,27,1,Regular
+KH-16690,Kristen Hastings,18158.9,2367.9,39,2,High Value
+KH-6330,Katharine Harms,3371.4,405.1,13,0,Low Value
+KH-6360,Katherine Hughes,2221.2,300.1,7,0,Low Value
+KH-6510,Keith Herrera,1544.3,483.1,7,0,Low Value
+KH-6630,Ken Heidel,1795.8,300.4,5,0,Low Value
+KH-6690,Kristen Hastings,1695.9,2.999999999999975,7,0,Low Value
+KL-16555,Kelly Lampkin,12064.9,581.0,26,1,Regular
+KL-16645,Ken Lonsdale,22553.0,812.4000000000001,28,1,Regular
+KL-6555,Kelly Lampkin,2184.2,157.60000000000002,7,0,Low Value
+KL-6645,Ken Lonsdale,1576.2,-657.6,5,0,Low Value
+KM-16225,Kalyca Meade,7754.8,227.2,18,1,Regular
+KM-16375,Katherine Murray,16394.6,1194.8,28,1,Regular
+KM-16660,Khloe Miller,10785.4,888.4999999999999,29,1,Regular
+KM-16720,Kunst Miller,14041.6,1637.3,23,1,Regular
+KM-6225,Kalyca Meade,891.3,142.29999999999998,3,0,Low Value
+KM-6375,Katherine Murray,2124.9,256.59999999999997,5,0,Low Value
+KM-6660,Khloe Miller,188.6,-40.5,3,0,Low Value
+KM-6720,Kunst Miller,2928.7,1122.1,3,0,Low Value
+KN-16390,Katherine Nockton,19350.5,4068.2000000000003,29,2,High Value
+KN-16450,Kean Nguyen,16294.9,2512.8,26,2,High Value
+KN-16705,Kristina Nunn,5884.9,935.3,19,1,Regular
+KN-6390,Katherine Nockton,318.8,77.3,3,0,Low Value
+KN-6450,Kean Nguyen,1767.4,-255.4,8,0,Low Value
+KN-6705,Kristina Nunn,4830.8,763.0,5,0,Low Value
+KS-16300,Karen Seio,5103.3,1080.0,21,1,Regular
+KS-6300,Karen Seio,221.5,33.8,4,0,Low Value
+KT-16465,Kean Takahito,15725.0,589.5,32,1,Regular
+KT-16480,Kean Thornton,6241.0,-156.1,20,1,Regular
+KT-6465,Kean Takahito,1532.1000000000001,397.9,7,0,Low Value
+KT-6480,Kean Thornton,2119.8,-461.8,7,0,Low Value
+KW-16435,Katrina Willman,15320.1,3025.7999999999997,23,2,High Value
+KW-16570,Kelly Williams,9256.5,2191.2999999999997,34,1,Regular
+KW-6435,Katrina Willman,427.3,80.89999999999999,4,0,Low Value
+KW-6570,Kelly Williams,2577.6,179.7,6,0,Low Value
+LA-16780,Laura Armstrong,24273.4,3754.1,34,2,High Value
+LA-6780,Laura Armstrong,3589.6,208.29999999999998,12,0,Low Value
+LB-16735,Larry Blacks,12686.1,1566.2,29,1,Regular
+LB-16795,Laurel Beltran,24590.0,4515.5,31,2,High Value
+LB-6735,Larry Blacks,1897.9,98.3,7,0,Low Value
+LB-6795,Laurel Beltran,1796.2,-212.20000000000002,8,0,Low Value
+LC-16870,Lena Cacioppo,9859.8,1048.1,21,1,Regular
+LC-16885,Lena Creighton,17058.7,1325.7,29,1,Regular
+LC-16930,Linda Cazamias,11660.6,1932.3,26,1,Regular
+LC-16960,Lindsay Castell,11812.4,1365.9,22,1,Regular
+LC-17050,Liz Carlisle,12934.0,1150.1,23,1,Regular
+LC-17140,Logan Currie,13128.4,1454.3999999999999,30,1,Regular
+LC-6870,Lena Cacioppo,1220.5,128.5,8,0,Low Value
+LC-6885,Lena Creighton,1828.2,-152.9,9,0,Low Value
+LC-6930,Linda Cazamias,5081.0,340.99999999999994,9,0,Low Value
+LC-6960,Lindsay Castell,2487.5,54.7,8,0,Low Value
+LC-7050,Liz Carlisle,7193.700000000001,1697.7,7,0,Low Value
+LC-7140,Logan Currie,2954.5,471.0,6,0,Low Value
+LD-16855,Lela Donovan,13361.9,1813.4,30,1,Regular
+LD-17005,Lisa DeCherney,11461.699999999999,1252.6000000000001,27,1,Regular
+LD-6855,Lela Donovan,2822.7,-326.29999999999995,8,0,Low Value
+LD-7005,Lisa DeCherney,361.8,-87.19999999999999,6,0,Low Value
+LE-16810,Laurel Elliston,10429.6,1737.3,24,1,Regular
+LE-6810,Laurel Elliston,1049.6,287.8,6,0,Low Value
+LF-17185,Luke Foster,12864.5,-3700.3,22,0,Low Value
+LF-7185,Luke Foster,556.4,55.9,5,0,Low Value
+LH-16750,Larry Hughes,7945.0,596.5,22,1,Regular
+LH-16900,Lena Hernandez,12098.6,995.5,29,1,Regular
+LH-17020,Lisa Hazard,8190.0,1040.7,18,1,Regular
+LH-17155,Logan Haushalter,14063.5,749.6999999999999,29,1,Regular
+LH-6750,Larry Hughes,745.7,44.10000000000001,5,0,Low Value
+LH-6900,Lena Hernandez,840.9000000000001,1.9999999999999887,3,0,Low Value
+LH-7020,Lisa Hazard,973.2,297.7,3,0,Low Value
+LH-7155,Logan Haushalter,3228.8,770.2,8,0,Low Value
+LL-16840,Lauren Leatherbury,11287.9,264.5,26,1,Regular
+LL-6840,Lauren Leatherbury,3649.3,630.3,9,0,Low Value
+LM-17065,Liz MacKendrick,9249.6,393.8,18,1,Regular
+LM-7065,Liz MacKendrick,6280.400000000001,1474.8,4,0,Low Value
+LO-17170,Lori Olson,11256.8,2319.6,28,1,Regular
+LO-7170,Lori Olson,2281.1,-531.1,7,0,Low Value
+LP-17080,Liz Pelletier,7632.1,-262.0,24,1,Regular
+LP-17095,Liz Preis,15598.5,2003.2,26,1,Regular
+LP-7080,Liz Pelletier,1831.3,-3.5999999999999908,7,0,Low Value
+LP-7095,Liz Preis,1011.4,119.5,4,0,Low Value
+LR-16915,Lena Radford,22434.6,3604.5,26,2,High Value
+LR-17035,Lisa Ryan,16119.1,2166.0,26,2,High Value
+LR-6915,Lena Radford,468.7,-232.79999999999998,3,0,Low Value
+LR-7035,Lisa Ryan,2677.9,283.3,9,0,Low Value
+LS-16945,Linda Southworth,10420.2,-86.70000000000005,20,1,Regular
+LS-16975,Lindsay Shagiari,8647.0,1737.5,22,1,Regular
+LS-17200,Luke Schmidt,15258.7,1756.3,24,1,Regular
+LS-17230,Lycoris Saunders,10577.2,1946.5,24,1,Regular
+LS-17245,Lynn Smith,10759.2,1878.3999999999999,24,1,Regular
+LS-6945,Linda Southworth,2726.2,18.699999999999967,12,0,Low Value
+LS-6975,Lindsay Shagiari,716.1999999999999,40.2,5,0,Low Value
+LS-7200,Luke Schmidt,340.7,-102.49999999999999,4,0,Low Value
+LS-7230,Lycoris Saunders,1164.4,-569.3,10,0,Low Value
+LS-7245,Lynn Smith,953.1,-380.1,6,0,Low Value
+LT-16765,Larry Tron,17254.1,3948.8,30,2,High Value
+LT-17110,Liz Thompson,12987.0,1382.3,26,1,Regular
+LT-6765,Larry Tron,1365.3,265.0,4,0,Low Value
+LT-7110,Liz Thompson,8235.1,1764.2,6,0,Low Value
+LW-16825,Laurel Workman,9991.0,982.1,20,1,Regular
+LW-16990,Lindsay Williams,9111.9,1335.3,23,1,Regular
+LW-17125,Liz Willingham,5369.7,518.1999999999999,16,0,Low Value
+LW-17215,Luke Weiss,10529.7,994.3,24,1,Regular
+LW-6825,Laurel Workman,881.8,166.6,11,0,Low Value
+LW-6990,Lindsay Williams,1869.8,151.8,11,0,Low Value
+LW-7125,Liz Willingham,2677.3,882.0,9,0,Low Value
+LW-7215,Luke Weiss,1521.9,-145.2,5,0,Low Value
+MA-17560,Matt Abelman,10814.3,784.0,24,1,Regular
+MA-17995,Michelle Arnett,10006.4,889.4,22,1,Regular
+MA-7560,Matt Abelman,1628.2,-264.20000000000005,4,0,Low Value
+MA-7995,Michelle Arnett,1927.9,213.20000000000002,11,0,Low Value
+MB-17305,Maria Bertelson,16729.2,3481.5,27,2,High Value
+MB-18085,Mick Brown,14744.0,2236.4,30,2,High Value
+MB-7305,Maria Bertelson,4874.7,1140.8,8,0,Low Value
+MB-8085,Mick Brown,1703.4,359.7,8,0,Low Value
+MC-17275,Marc Crier,11680.1,1463.1,34,1,Regular
+MC-17425,Mark Cousins,15055.5,3980.9,30,2,High Value
+MC-17575,Matt Collins,14281.8,966.1000000000001,33,1,Regular
+MC-17590,Matt Collister,10119.0,1337.5,25,1,Regular
+MC-17605,Matt Connell,13019.4,1296.1,26,1,Regular
+MC-17635,Matthew Clasen,21113.4,3529.4,34,2,High Value
+MC-17845,Michael Chen,14948.1,1064.5,31,1,Regular
+MC-18100,Mick Crebagga,11353.7,130.79999999999995,33,1,Regular
+MC-18130,Mike Caudle,8533.0,717.5,23,1,Regular
+MC-7275,Marc Crier,4301.1,650.3000000000001,5,0,Low Value
+MC-7425,Mark Cousins,1489.8,-1129.3,5,0,Low Value
+MC-7575,Matt Collins,3619.2,783.5,8,0,Low Value
+MC-7590,Matt Collister,1554.2,569.5,3,0,Low Value
+MC-7605,Matt Connell,208.4,70.7,2,0,Low Value
+MC-7635,Matthew Clasen,695.2,113.7,4,0,Low Value
+MC-7845,Michael Chen,991.6999999999999,148.6,4,0,Low Value
+MC-8100,Mick Crebagga,659.3,205.5,3,0,Low Value
+MC-8130,Mike Caudle,826.5,79.5,5,0,Low Value
+MD-17350,Maribeth Dona,16455.6,1041.0,30,1,Regular
+MD-17860,Michael Dominguez,15575.800000000001,1596.4,28,1,Regular
+MD-7350,Maribeth Dona,1374.3,189.9,6,0,Low Value
+MD-7860,Michael Dominguez,6853.5,2176.1,5,0,Low Value
+ME-17320,Maria Etezadi,24527.2,3359.7,30,2,High Value
+ME-17725,Max Engle,7839.8,323.6,28,1,Regular
+ME-18010,Michelle Ellison,10547.7,639.5999999999999,27,1,Regular
+ME-7320,Maria Etezadi,1720.1000000000001,58.80000000000001,10,0,Low Value
+ME-7725,Max Engle,2083.9,349.8,11,0,Low Value
+ME-8010,Michelle Ellison,160.5,15.9,1,0,Low Value
+MF-17665,Maureen Fritzler,13366.9,1417.3,29,1,Regular
+MF-18250,Monica Federle,20425.4,2272.4,32,2,High Value
+MF-7665,Maureen Fritzler,161.9,3.4000000000000004,3,0,Low Value
+MF-8250,Monica Federle,1517.8,301.0,6,0,Low Value
+MG-17650,Matthew Grinstein,12717.3,2178.1,21,1,Regular
+MG-17680,Maureen Gastineau,16061.9,892.5,28,1,Regular
+MG-17695,Maureen Gnade,16221.6,760.6999999999998,25,1,Regular
+MG-17875,Michael Grace,14453.2,-133.5,33,1,Regular
+MG-17890,Michael Granlund,13162.3,-977.0999999999999,29,1,Regular
+MG-18145,Mike Gockenbach,18147.7,4668.200000000001,24,2,High Value
+MG-18205,Mitch Gastineau,16362.7,1540.0,29,1,Regular
+MG-7650,Matthew Grinstein,301.7,27.2,1,0,Low Value
+MG-7680,Maureen Gastineau,4298.4,-151.3,9,0,Low Value
+MG-7695,Maureen Gnade,2104.5,84.89999999999999,7,0,Low Value
+MG-7875,Michael Grace,80.2,15.9,1,0,Low Value
+MG-7890,Michael Granlund,19.1,-22.5,1,0,Low Value
+MG-8145,Mike Gockenbach,5229.1,1790.5,3,0,Low Value
+MG-8205,Mitch Gastineau,1649.2,282.20000000000005,7,0,Low Value
+MH-17290,Marc Harrigan,13718.9,1950.5,25,1,Regular
+MH-17440,Mark Haberlin,7945.1,771.5,25,1,Regular
+MH-17455,Mark Hamilton,9974.2,156.0,27,1,Regular
+MH-17620,Matt Hagelstein,11038.8,106.99999999999997,20,1,Regular
+MH-17785,Maya Herman,11676.0,1185.1,26,1,Regular
+MH-18025,Michelle Huthwaite,11754.1,1010.7,19,1,Regular
+MH-18115,Mick Hernandez,12016.9,1250.7,26,1,Regular
+MH-7290,Marc Harrigan,1685.3,365.5,3,0,Low Value
+MH-7440,Mark Haberlin,3357.7999999999997,780.5,8,0,Low Value
+MH-7455,Mark Hamilton,4747.3,371.20000000000005,10,0,Low Value
+MH-7620,Matt Hagelstein,1179.8,167.9,7,0,Low Value
+MH-7785,Maya Herman,1914.7,285.6,9,0,Low Value
+MH-8025,Michelle Huthwaite,1095.3,-149.7,9,0,Low Value
+MH-8115,Mick Hernandez,1260.7,237.6,7,0,Low Value
+MJ-17740,Max Jones,15348.0,2054.6,26,1,Regular
+MJ-7740,Max Jones,1136.8,382.90000000000003,4,0,Low Value
+MK-17905,Michael Kennedy,13202.2,-139.40000000000003,31,1,Regular
+MK-18160,Mike Kennedy,10043.4,317.70000000000005,20,1,Regular
+MK-7905,Michael Kennedy,1244.8999999999999,-71.29999999999998,11,0,Low Value
+MK-8160,Mike Kennedy,2697.4,440.90000000000003,10,0,Low Value
+ML-17395,Marina Lichtenstein,14507.4,1142.3,25,1,Regular
+ML-17410,Maris LaWare,14982.1,1338.7,30,1,Regular
+ML-17755,Max Ludwig,14424.9,1577.3,28,1,Regular
+ML-18040,Michelle Lonsdale,8678.0,1647.1,19,1,Regular
+ML-18265,Muhammed Lee,14674.1,2037.5,26,1,Regular
+ML-7395,Marina Lichtenstein,1049.5,142.0,7,0,Low Value
+ML-7410,Maris LaWare,193.10000000000002,-184.4,3,0,Low Value
+ML-7755,Max Ludwig,1108.5,260.4,7,0,Low Value
+ML-8040,Michelle Lonsdale,1690.8,315.9,7,0,Low Value
+ML-8265,Muhammed Lee,1170.7,276.7,9,0,Low Value
+MM-17260,Magdelene Morse,15713.9,3160.1,26,2,High Value
+MM-17920,Michael Moore,20383.6,1824.3000000000002,33,2,High Value
+MM-18055,Michelle Moray,11163.7,1901.3,25,1,Regular
+MM-18280,Muhammed MacIntyre,7134.599999999999,1877.0,25,1,Regular
+MM-7260,Magdelene Morse,5510.3,1220.4,5,0,Low Value
+MM-7920,Michael Moore,1350.1000000000001,234.8,6,0,Low Value
+MM-8055,Michelle Moray,1924.8999999999999,-638.5,8,0,Low Value
+MM-8280,Muhammed MacIntyre,3586.7,289.2000000000001,10,0,Low Value
+MN-17935,Michael Nguyen,12871.3,1517.6,21,1,Regular
+MN-7935,Michael Nguyen,2175.4,-125.10000000000001,6,0,Low Value
+MO-17500,Mary O'Rourke,10314.6,573.4999999999999,24,1,Regular
+MO-17800,Meg O'Connel,13709.4,2639.1,25,2,High Value
+MO-17950,Michael Oakman,4527.7,34.1,14,0,Low Value
+MO-7500,Mary O'Rourke,810.8000000000001,-54.6,5,0,Low Value
+MO-7800,Meg O'Connel,4294.3,465.4,9,0,Low Value
+MO-7950,Michael Oakman,933.3,252.0,3,0,Low Value
+MP-17470,Mark Packer,12928.800000000001,2231.5,28,1,Regular
+MP-17965,Michael Paige,17228.9,1455.6000000000001,39,1,Regular
+MP-18175,Mike Pelletier,22045.7,455.6,36,1,Regular
+MP-7470,Mark Packer,58.1,-58.4,2,0,Low Value
+MP-7965,Michael Paige,566.9,177.4,8,0,Low Value
+MP-8175,Mike Pelletier,2169.1,77.20000000000002,6,0,Low Value
+MR-17545,Mathew Reese,19246.6,3061.0,23,2,High Value
+MR-7545,Mathew Reese,2325.4,650.1,6,0,Low Value
+MS-17365,Maribeth Schnelling,20317.3,3299.9,34,2,High Value
+MS-17530,MaryBeth Skach,13334.9,2150.6,25,1,Regular
+MS-17710,Maurice Satty,8500.9,1057.6,26,1,Regular
+MS-17770,Maxwell Schwartz,17383.2,2685.4,36,2,High Value
+MS-17830,Melanie Seite,11783.699999999999,1765.6,26,1,Regular
+MS-17980,Michael Stewart,16210.8,834.5999999999999,27,1,Regular
+MS-7365,Maribeth Schnelling,1365.5,228.9,5,0,Low Value
+MS-7530,MaryBeth Skach,1456.8,-163.0,8,0,Low Value
+MS-7710,Maurice Satty,1529.5,94.7,8,0,Low Value
+MS-7770,Maxwell Schwartz,538.6,166.1,6,0,Low Value
+MS-7830,Melanie Seite,4323.1,294.79999999999995,8,0,Low Value
+MS-7980,Michael Stewart,1654.7,412.6,5,0,Low Value
+MT-17815,Meg Tillman,13845.5,1295.3,27,1,Regular
+MT-18070,Michelle Tran,10920.5,1203.9,24,1,Regular
+MT-7815,Meg Tillman,1500.7,-501.40000000000003,6,0,Low Value
+MT-8070,Michelle Tran,6851.8,-2991.7000000000003,7,0,Low Value
+MV-17485,Mark Van Huff,10563.6,1650.6,27,1,Regular
+MV-18190,Mike Vittorini,15577.0,1179.1000000000001,30,1,Regular
+MV-7485,Mark Van Huff,952.6,159.7,5,0,Low Value
+MV-8190,Mike Vittorini,3994.9,181.39999999999995,8,0,Low Value
+MW-18220,Mitch Webber,20592.4,3596.4,28,2,High Value
+MW-18235,Mitch Willingham,17933.3,-179.99999999999991,24,1,Regular
+MW-8220,Mitch Webber,2476.5,490.20000000000005,8,0,Low Value
+MW-8235,Mitch Willingham,1070.8,325.6,6,0,Low Value
+MY-17380,Maribeth Yedwab,14724.0,2926.0,28,2,High Value
+MY-18295,Muhammed Yedwab,25571.0,2553.6,29,2,High Value
+MY-7380,Maribeth Yedwab,1745.6999999999998,633.1999999999999,4,0,Low Value
+MY-8295,Muhammed Yedwab,4072.3,88.80000000000003,10,0,Low Value
+MZ-17335,Maria Zettner,14463.9,1794.6,26,1,Regular
+MZ-17515,Mary Zewe,13384.2,1454.3,25,1,Regular
+MZ-7335,Maria Zettner,3494.3,459.8,5,0,Low Value
+MZ-7515,Mary Zewe,3193.2,428.4,9,0,Low Value
+NB-18580,Nicole Brennan,4875.6,-105.20000000000002,10,0,Low Value
+NB-18655,Nona Balk,9647.1,1537.4,22,1,Regular
+NB-8580,Nicole Brennan,1059.6000000000001,-586.2,7,0,Low Value
+NB-8655,Nona Balk,434.6,-83.60000000000001,5,0,Low Value
+NC-18340,Nat Carroll,13905.6,-996.4000000000001,22,1,Regular
+NC-18415,Nathan Cano,9255.9,-771.7000000000002,19,1,Regular
+NC-18535,Nick Crebassa,11054.3,1415.4,22,1,Regular
+NC-18625,Noah Childs,16901.6,2229.8,29,2,High Value
+NC-8340,Nat Carroll,2708.1,535.3000000000001,9,0,Low Value
+NC-8415,Nathan Cano,1503.5,46.49999999999998,5,0,Low Value
+NC-8535,Nick Crebassa,1251.1,-79.7,7,0,Low Value
+NC-8625,Noah Childs,442.3,33.0,2,0,Low Value
+ND-18370,Natalie DeCherney,10912.8,1970.1000000000001,23,1,Regular
+ND-18460,Neil Ducich,12061.4,2197.2,22,1,Regular
+ND-8370,Natalie DeCherney,2790.2,650.1,6,0,Low Value
+ND-8460,Neil Ducich,2722.9,971.5,10,0,Low Value
+NF-18385,Natalie Fritzler,28044.9,1362.3000000000002,32,2,High Value
+NF-18475,Neil Französisch,10631.0,2633.7999999999997,22,1,Regular
+NF-18595,Nicole Fjeld,10535.5,1438.9,22,1,Regular
+NF-8385,Natalie Fritzler,3736.8,180.60000000000002,11,0,Low Value
+NF-8475,Neil Französisch,2019.1,286.3,7,0,Low Value
+NF-8595,Nicole Fjeld,1732.0,-67.39999999999998,5,0,Low Value
+NG-18355,Nat Gilpin,9262.9,1826.6,21,1,Regular
+NG-18430,Nathan Gelder,18970.5,3320.6,28,2,High Value
+NG-8355,Nat Gilpin,2746.5,979.7,7,0,Low Value
+NG-8430,Nathan Gelder,3749.9,890.5,8,0,Low Value
+NH-18610,Nicole Hansen,19182.2,3867.9,22,2,High Value
+NH-8610,Nicole Hansen,2121.7000000000003,207.8,6,0,Low Value
+NK-18490,Neil Knudson,11483.5,2309.2,24,1,Regular
+NK-8490,Neil Knudson,2395.3,731.0,4,0,Low Value
+NL-18310,Nancy Lomonaco,10587.6,-592.8999999999999,25,1,Regular
+NL-8310,Nancy Lomonaco,251.29999999999998,26.400000000000006,2,0,Low Value
+NM-18445,Nathan Mautz,20223.1,5095.5,32,2,High Value
+NM-18520,Neoma Murray,12328.9,2631.0,27,2,High Value
+NM-8445,Nathan Mautz,4053.8,693.9,9,0,Low Value
+NM-8520,Neoma Murray,1540.5,511.5,1,0,Low Value
+NP-18325,Naresj Patel,11778.5,1773.0,25,1,Regular
+NP-18670,Nora Paige,12838.9,2741.6,19,2,High Value
+NP-18685,Nora Pelletier,11363.7,308.1,30,1,Regular
+NP-18700,Nora Preis,14036.6,609.5999999999999,27,1,Regular
+NP-8325,Naresj Patel,1336.7,31.49999999999999,8,0,Low Value
+NP-8670,Nora Paige,2872.1,294.1,6,0,Low Value
+NP-8685,Nora Pelletier,4994.8,1250.7,4,0,Low Value
+NP-8700,Nora Preis,1880.7,-234.09999999999997,6,0,Low Value
+NR-18550,Nick Radford,10993.2,1206.9,26,1,Regular
+NR-8550,Nick Radford,1898.6000000000001,462.9,8,0,Low Value
+NS-18505,Neola Schneider,14834.4,479.4,25,1,Regular
+NS-18640,Noel Staavos,14866.0,1116.2,37,1,Regular
+NS-8505,Neola Schneider,963.0,-1166.5,5,0,Low Value
+NS-8640,Noel Staavos,1771.5,-297.20000000000005,8,0,Low Value
+NW-18400,Natalie Webber,15326.9,2085.2,26,1,Regular
+NW-8400,Natalie Webber,7046.7,1736.1999999999998,7,0,Low Value
+NZ-18565,Nick Zandusky,19941.7,2257.8,26,2,High Value
+NZ-8565,Nick Zandusky,328.7,-166.5,4,0,Low Value
+ON-18715,Odella Nelson,17764.100000000002,3779.0,33,2,High Value
+ON-8715,Odella Nelson,1507.4,-995.8,5,0,Low Value
+OT-18730,Olvera Toch,19494.0,1797.8999999999999,32,2,High Value
+OT-8730,Olvera Toch,265.2,33.3,4,0,Low Value
+PA-19060,Pete Armstrong,6723.1,647.8,21,1,Regular
+PA-9060,Pete Armstrong,3670.7,907.4,6,0,Low Value
+PB-18805,Patrick Bzostek,12075.5,1479.7,19,1,Regular
+PB-19105,Peter Bühler,8088.0,1615.5,16,1,Regular
+PB-19150,Philip Brown,7907.6,460.6,33,1,Regular
+PB-19210,Phillip Breyer,18967.8,2313.8,27,2,High Value
+PB-8805,Patrick Bzostek,2787.7,263.50000000000006,9,0,Low Value
+PB-9105,Peter Bühler,1808.1,320.4,4,0,Low Value
+PB-9150,Philip Brown,3478.4,811.9000000000001,10,0,Low Value
+PB-9210,Phillip Breyer,5301.9,-909.6999999999999,7,0,Low Value
+PC-18745,Pamela Coakley,10693.7,-904.4,21,1,Regular
+PC-19000,Pauline Chand,9474.1,519.5,18,1,Regular
+PC-8745,Pamela Coakley,1246.6,484.20000000000005,5,0,Low Value
+PC-9000,Pauline Chand,1160.5,313.9,4,0,Low Value
+PF-19120,Peter Fuller,27993.3,623.4,28,1,Regular
+PF-19165,Philip Fox,16018.9,1486.6,36,1,Regular
+PF-19225,Phillip Flathmann,11915.2,1613.7,30,1,Regular
+PF-9120,Peter Fuller,1883.0,439.8,10,0,Low Value
+PF-9165,Philip Fox,2007.7,422.59999999999997,7,0,Low Value
+PF-9225,Phillip Flathmann,1474.4,-672.5999999999999,7,0,Low Value
+PG-18820,Patrick Gardner,14636.2,1626.9,35,1,Regular
+PG-18895,Paul Gonzalez,13942.4,1270.2,28,1,Regular
+PG-8820,Patrick Gardner,1846.6,348.2,6,0,Low Value
+PG-8895,Paul Gonzalez,1981.1000000000001,350.2,6,0,Low Value
+PH-18790,Patricia Hirasaki,9435.6,2390.0,19,1,Regular
+PH-8790,Patricia Hirasaki,1747.0,353.6,8,0,Low Value
+PJ-18835,Patrick Jones,13639.4,4889.5,19,2,High Value
+PJ-19015,Pauline Johnson,9231.1,1212.7,22,1,Regular
+PJ-8835,Patrick Jones,801.6,-870.3,6,0,Low Value
+PJ-9015,Pauline Johnson,6612.699999999999,889.9,8,0,Low Value
+PK-18910,Paul Knutson,7282.5,319.40000000000003,16,0,Low Value
+PK-19075,Pete Kriz,17669.3,2169.7999999999997,29,2,High Value
+PK-8910,Paul Knutson,948.4,-627.5,4,0,Low Value
+PK-9075,Pete Kriz,992.9,-505.8,3,0,Low Value
+PL-18925,Paul Lucas,14256.8,1783.1,20,1,Regular
+PL-8925,Paul Lucas,759.3000000000001,223.6,3,0,Low Value
+PM-18940,Paul MacIntyre,12893.3,926.4999999999999,23,1,Regular
+PM-19135,Peter McVee,9857.9,649.1,22,1,Regular
+PM-8940,Paul MacIntyre,1448.8,252.0,9,0,Low Value
+PM-9135,Peter McVee,1429.4,369.9,6,0,Low Value
+PN-18775,Parhena Norris,11370.5,1729.8,33,1,Regular
+PN-8775,Parhena Norris,1522.2,475.7,5,0,Low Value
+PO-18850,Patrick O'Brill,25274.7,3249.4,41,2,High Value
+PO-18865,Patrick O'Donnell,21051.2,4698.4,35,2,High Value
+PO-19180,Philisse Overcash,16753.4,2556.8,24,2,High Value
+PO-19195,Phillina Ober,10872.2,-1667.6,21,1,Regular
+PO-8850,Patrick O'Brill,1433.0,529.1,4,0,Low Value
+PO-8865,Patrick O'Donnell,2973.2,-80.69999999999997,6,0,Low Value
+PO-9180,Philisse Overcash,1231.2,-381.0,9,0,Low Value
+PO-9195,Phillina Ober,8227.5,641.5,8,0,Low Value
+PP-18955,Paul Prost,21884.8,2902.5,30,2,High Value
+PP-8955,Paul Prost,359.0,-214.6,3,0,Low Value
+PR-18880,Patrick Ryan,13243.4,1363.0,29,1,Regular
+PR-8880,Patrick Ryan,1085.5,-953.9,5,0,Low Value
+PS-18760,Pamela Stobb,15926.6,1485.1,28,1,Regular
+PS-18970,Paul Stevenson,18222.600000000002,2205.3,33,2,High Value
+PS-19045,Penelope Sewall,29252.6,4425.8,26,2,High Value
+PS-8760,Pamela Stobb,1706.3,-192.40000000000003,5,0,Low Value
+PS-8970,Paul Stevenson,1395.8999999999999,-371.2,4,0,Low Value
+PS-9045,Penelope Sewall,829.4,-87.5,7,0,Low Value
+PT-19090,Pete Takahito,8371.0,216.3,25,1,Regular
+PT-9090,Pete Takahito,4686.1,392.90000000000003,5,0,Low Value
+PV-18985,Paul Van Hugh,12540.8,2530.8,28,2,High Value
+PV-8985,Paul Van Hugh,6390.7,1524.5,6,0,Low Value
+PW-19030,Pauline Webber,12810.4,2322.5,31,1,Regular
+PW-19240,Pierre Wener,7186.4,1836.9,24,1,Regular
+PW-9030,Pauline Webber,1080.9,-377.7,7,0,Low Value
+PW-9240,Pierre Wener,1237.5,104.80000000000001,7,0,Low Value
+QJ-19255,Quincy Jones,18193.1,2407.8,23,2,High Value
+QJ-9255,Quincy Jones,387.1,-164.3,5,0,Low Value
+RA-19285,Ralph Arnett,16816.6,4133.1,24,2,High Value
+RA-19885,Ruben Ausman,15435.8,3419.5,23,2,High Value
+RA-19915,Russell Applegate,20975.4,2078.8,27,2,High Value
+RA-19945,Ryan Akin,11696.3,679.1,23,1,Regular
+RA-9285,Ralph Arnett,6226.9,-1520.1,14,0,Low Value
+RA-9885,Ruben Ausman,503.5,-99.60000000000001,8,0,Low Value
+RA-9915,Russell Applegate,420.70000000000005,85.5,2,0,Low Value
+RA-9945,Ryan Akin,2044.7,217.70000000000002,9,0,Low Value
+RB-19330,Randy Bradley,18359.8,3737.6,32,2,High Value
+RB-19360,Raymond Buch,29198.0,8523.6,25,2,High Value
+RB-19435,Richard Bierner,11618.2,605.1999999999999,28,1,Regular
+RB-19465,Rick Bensley,17178.9,2769.3,36,2,High Value
+RB-19570,Rob Beeghly,10961.8,1645.9,25,1,Regular
+RB-19645,Robert Barroso,5973.5,754.6,22,1,Regular
+RB-19705,Roger Barcio,9288.4,2069.2,16,1,Regular
+RB-19795,Ross Baird,19056.7,2323.7,35,2,High Value
+RB-9330,Randy Bradley,4538.3,414.0,8,0,Low Value
+RB-9360,Raymond Buch,404.5,-71.0,4,0,Low Value
+RB-9435,Richard Bierner,3179.2,-1731.3,6,0,Low Value
+RB-9465,Rick Bensley,3675.3,1296.8,3,0,Low Value
+RB-9570,Rob Beeghly,586.9,-150.2,5,0,Low Value
+RB-9645,Robert Barroso,282.6,-114.19999999999999,3,0,Low Value
+RB-9705,Roger Barcio,6018.3,810.5,12,0,Low Value
+RB-9795,Ross Baird,255.2,26.799999999999997,5,0,Low Value
+RC-19825,Roy Collins,7916.7,737.8000000000001,25,1,Regular
+RC-19960,Ryan Crowe,7898.4,1757.8,22,1,Regular
+RC-9825,Roy Collins,37.4,0.0,1,0,Low Value
+RC-9960,Ryan Crowe,1639.9,365.9,5,0,Low Value
+RD-19480,Rick Duston,16487.4,3317.0,27,2,High Value
+RD-19585,Rob Dowd,16314.8,2450.4,31,2,High Value
+RD-19660,Robert Dilbeck,12948.1,3171.7999999999997,21,2,High Value
+RD-19720,Roger Demir,10903.0,1897.5,30,1,Regular
+RD-19810,Ross DeVincentis,7091.2,1417.2,30,1,Regular
+RD-19900,Ruben Dartt,13485.9,2475.0,29,2,High Value
+RD-19930,Russell D'Ascenzo,9293.6,683.3000000000001,22,1,Regular
+RD-9480,Rick Duston,1061.8999999999999,270.5,6,0,Low Value
+RD-9585,Rob Dowd,5168.5,1469.6,7,0,Low Value
+RD-9660,Robert Dilbeck,3391.8,794.1999999999999,9,0,Low Value
+RD-9720,Roger Demir,3833.9,1140.0,8,0,Low Value
+RD-9810,Ross DeVincentis,3214.8,522.5,7,0,Low Value
+RD-9900,Ruben Dartt,4837.3,855.8000000000001,10,0,Low Value
+RD-9930,Russell D'Ascenzo,6523.2,547.0000000000001,11,0,Low Value
+RE-19405,Ricardo Emerson,12073.1,2356.1,21,1,Regular
+RE-19450,Richard Eichhorn,10660.6,1501.5,18,1,Regular
+RE-9405,Ricardo Emerson,1967.6000000000001,287.7,6,0,Low Value
+RE-9450,Richard Eichhorn,5679.0,890.3000000000001,12,0,Low Value
+RF-19345,Randy Ferguson,13391.5,2277.1,27,1,Regular
+RF-19735,Roland Fjeld,12139.3,824.8,23,1,Regular
+RF-19840,Roy Französisch,15077.6,3052.3,31,2,High Value
+RF-9345,Randy Ferguson,3207.9,816.7,5,0,Low Value
+RF-9735,Roland Fjeld,950.1999999999999,298.8,3,0,Low Value
+RF-9840,Roy Französisch,571.6,-210.3,6,0,Low Value
+RH-19495,Rick Hansen,13295.8,1457.7000000000003,28,1,Regular
+RH-19510,Rick Huthwaite,11599.9,1801.3,25,1,Regular
+RH-19555,Ritsa Hightower,8944.0,292.9,21,1,Regular
+RH-19600,Rob Haberlin,4629.6,329.7,21,1,Regular
+RH-9495,Rick Hansen,3057.4,393.5,3,0,Low Value
+RH-9510,Rick Huthwaite,1837.8999999999999,-136.49999999999997,7,0,Low Value
+RH-9555,Ritsa Hightower,8753.4,1710.0,8,0,Low Value
+RH-9600,Rob Haberlin,3340.6,892.5,8,0,Low Value
+RK-19300,Ralph Kennedy,13480.9,-1673.7999999999997,26,1,Regular
+RK-9300,Ralph Kennedy,519.1,117.7,4,0,Low Value
+RL-19615,Rob Lucas,14867.1,2337.2,23,1,Regular
+RL-9615,Rob Lucas,2420.2999999999997,366.79999999999995,8,0,Low Value
+RM-19375,Raymond Messe,16077.8,1331.5,25,1,Regular
+RM-19675,Robert Marley,11152.6,2810.5,19,1,Regular
+RM-19750,Roland Murray,6475.0,1314.7,19,1,Regular
+RM-9375,Raymond Messe,2239.8,524.0,7,0,Low Value
+RM-9675,Robert Marley,1715.1,-268.3,8,0,Low Value
+RM-9750,Roland Murray,929.2,-64.5,7,0,Low Value
+RO-19780,Rose O'Brian,18833.7,710.4,29,1,Regular
+RO-9780,Rose O'Brian,3080.2999999999997,158.20000000000005,9,0,Low Value
+RP-19270,Rachel Payne,13725.7,1507.8000000000002,26,1,Regular
+RP-19390,Resi Pölking,16115.0,-452.10000000000014,34,1,Regular
+RP-19855,Roy Phan,11043.3,428.3999999999999,27,1,Regular
+RP-9270,Rachel Payne,1274.4,394.7,6,0,Low Value
+RP-9390,Resi Pölking,5936.099999999999,1520.4,7,0,Low Value
+RP-9855,Roy Phan,3569.0,-289.6,6,0,Low Value
+RR-19315,Ralph Ritter,11765.0,2304.2,21,1,Regular
+RR-19525,Rick Reed,15009.4,-99.09999999999998,27,1,Regular
+RR-9315,Ralph Ritter,1820.9,534.7,4,0,Low Value
+RR-9525,Rick Reed,1377.1,51.199999999999996,7,0,Low Value
+RS-19420,Ricardo Sperren,14047.5,1770.8999999999999,28,1,Regular
+RS-19765,Roland Schwarz,13582.2,3046.6,25,2,High Value
+RS-19870,Roy Skaria,7091.1,1222.8,20,1,Regular
+RS-9420,Ricardo Sperren,385.7,52.7,7,0,Low Value
+RS-9765,Roland Schwarz,1524.2,425.8,6,0,Low Value
+RS-9870,Roy Skaria,1031.5,240.5,8,0,Low Value
+RW-19540,Rick Wilson,19423.9,3925.7,25,2,High Value
+RW-19630,Rob Williams,9426.3,1999.7,26,1,Regular
+RW-19690,Robert Waldorf,11200.3,2312.5,25,1,Regular
+RW-9540,Rick Wilson,5698.6,1252.4,7,0,Low Value
+RW-9630,Rob Williams,560.0,252.60000000000002,2,0,Low Value
+RW-9690,Robert Waldorf,1399.2,-175.1,8,0,Low Value
+SA-10830,Sue Ann Reed,872.7,-56.599999999999994,10,0,Low Value
+SA-20830,Sue Ann Reed,15622.1,1411.3,30,1,Regular
+SB-10170,Sarah Bern,1647.3,23.999999999999993,5,0,Low Value
+SB-10185,Sarah Brown,1268.5,223.3,7,0,Low Value
+SB-10290,Sean Braxton,1975.5,-120.69999999999999,5,0,Low Value
+SB-20170,Sarah Bern,12950.9,2342.7,15,1,Regular
+SB-20185,Sarah Brown,21034.600000000002,1445.6,31,2,High Value
+SB-20290,Sean Braxton,18538.8,-1776.6,22,1,Regular
+SC-10020,Sam Craven,476.5,-115.5,4,0,Low Value
+SC-10050,Sample Company A,2311.8,358.8,7,0,Low Value
+SC-10095,Sanjit Chand,918.6,99.19999999999999,7,0,Low Value
+SC-10230,Scot Coram,1793.8999999999999,286.29999999999995,3,0,Low Value
+SC-10260,Scott Cohen,3166.4,-42.699999999999996,7,0,Low Value
+SC-10305,Sean Christensen,3207.3,-212.89999999999998,7,0,Low Value
+SC-10380,Shahid Collister,1556.2,410.1,4,0,Low Value
+SC-10440,Shaun Chance,1929.3999999999999,-533.4,4,0,Low Value
+SC-10575,Sonia Cooley,328.0,41.699999999999996,2,0,Low Value
+SC-10680,Steve Carroll,6344.7,543.3,4,0,Low Value
+SC-10695,Steve Chapman,1468.9,-350.5,4,0,Low Value
+SC-10725,Steven Cartwright,2944.6,191.20000000000002,7,0,Low Value
+SC-10770,Stewart Carmichael,2033.2,-127.70000000000002,7,0,Low Value
+SC-10800,Stuart Calhoun,89.2,-77.89999999999999,2,0,Low Value
+SC-10845,Sung Chung,1368.1,261.7,4,0,Low Value
+SC-20020,Sam Craven,10579.9,1231.7,34,1,Regular
+SC-20050,Sample Company A,16813.3,-340.6,30,1,Regular
+SC-20095,Sanjit Chand,25602.6,8106.3,28,2,High Value
+SC-20230,Scot Coram,20333.8,2785.1,25,2,High Value
+SC-20260,Scott Cohen,9366.7,1265.3999999999999,26,1,Regular
+SC-20305,Sean Christensen,17696.9,675.8000000000001,26,1,Regular
+SC-20380,Shahid Collister,16122.9,1282.4,37,1,Regular
+SC-20440,Shaun Chance,7677.099999999999,890.6,25,1,Regular
+SC-20575,Sonia Cooley,9685.4,896.4999999999999,33,1,Regular
+SC-20680,Steve Carroll,13476.9,1165.3,31,1,Regular
+SC-20695,Steve Chapman,21931.3,2516.0,35,2,High Value
+SC-20725,Steven Cartwright,13975.4,1874.9,30,1,Regular
+SC-20770,Stewart Carmichael,14495.0,445.90000000000003,32,1,Regular
+SC-20800,Stuart Calhoun,11321.4,1353.8000000000002,24,1,Regular
+SC-20845,Sung Chung,9898.6,1435.0,24,1,Regular
+SD-10485,Shirley Daniels,1157.1,216.3,8,0,Low Value
+SD-20485,Shirley Daniels,16801.8,3431.0,32,2,High Value
+SE-10110,Sanjit Engle,613.6,152.1,3,0,Low Value
+SE-20110,Sanjit Engle,29533.0,5863.9,36,2,High Value
+SF-10065,Sandra Flanagan,3861.4,792.1,8,0,Low Value
+SF-10200,Sarah Foster,2633.3,-1384.5,8,0,Low Value
+SF-10965,Sylvia Foulston,2476.3,656.4,6,0,Low Value
+SF-20065,Sandra Flanagan,7395.5,1073.5,21,1,Regular
+SF-20200,Sarah Foster,13019.7,2214.4,28,1,Regular
+SF-20965,Sylvia Foulston,6777.900000000001,1239.0,17,1,Regular
+SG-10080,Sandra Glassco,1078.7,331.8,6,0,Low Value
+SG-10470,Sheri Gordon,3086.7000000000003,867.6,3,0,Low Value
+SG-10605,Speros Goranitis,2816.1,211.39999999999998,6,0,Low Value
+SG-10890,Susan Gilcrest,1424.8,301.0,6,0,Low Value
+SG-20080,Sandra Glassco,10774.6,2551.5,17,1,Regular
+SG-20470,Sheri Gordon,10730.2,1471.5,28,1,Regular
+SG-20605,Speros Goranitis,10129.0,1329.6,32,1,Regular
+SG-20890,Susan Gilcrest,11260.3,240.19999999999993,22,1,Regular
+SH-10395,Shahid Hopkins,129.1,-52.89999999999999,4,0,Low Value
+SH-10635,Stefanie Holloman,659.0,129.8,4,0,Low Value
+SH-19975,Sally Hughsby,10893.5,986.8000000000001,29,1,Regular
+SH-20395,Shahid Hopkins,12849.7,1111.9,33,1,Regular
+SH-20635,Stefanie Holloman,13546.7,1847.7,25,1,Regular
+SH-9975,Sally Hughsby,8058.5,808.1,8,0,Low Value
+SJ-10125,Sanjit Jacobs,2961.4,364.7,9,0,Low Value
+SJ-10215,Sarah Jordon,1359.4,179.0,9,0,Low Value
+SJ-10500,Shirley Jackson,454.09999999999997,34.5,3,0,Low Value
+SJ-20125,Sanjit Jacobs,10562.5,1463.2,30,1,Regular
+SJ-20215,Sarah Jordon,14709.8,2332.7999999999997,32,2,High Value
+SJ-20500,Shirley Jackson,12930.9,1547.4,26,1,Regular
+SK-19990,Sally Knutson,10933.3,2319.9,19,1,Regular
+SK-9990,Sally Knutson,2359.1,655.5,7,0,Low Value
+SL-10155,Sara Luxemburg,2452.1,655.7,14,0,Low Value
+SL-20155,Sara Luxemburg,14380.5,1244.4,32,1,Regular
+SM-10005,Sally Matthias,6262.4,1178.0,8,0,Low Value
+SM-10320,Sean Miller,4045.6,674.1,7,0,Low Value
+SM-10905,Susan MacKendrick,1711.9,247.8,5,0,Low Value
+SM-10950,Suzanne McNair,1336.4,161.7,9,0,Low Value
+SM-20005,Sally Matthias,6801.7,350.09999999999997,22,1,Regular
+SM-20320,Sean Miller,31125.7,-1083.8999999999999,21,1,Regular
+SM-20905,Susan MacKendrick,6918.4,1280.3,17,1,Regular
+SM-20950,Suzanne McNair,11552.6,1009.3,29,1,Regular
+SN-10560,Skye Norling,1480.0,-111.0,6,0,Low Value
+SN-10710,Steve Nguyen,702.2,89.4,4,0,Low Value
+SN-20560,Skye Norling,12739.0,-2527.3,25,1,Regular
+SN-20710,Steve Nguyen,12704.0,2295.6,24,1,Regular
+SO-10335,Sean O'Donnell,831.6,17.39999999999999,4,0,Low Value
+SO-20335,Sean O'Donnell,15535.300000000001,2389.6,27,2,High Value
+SP-10545,Sibella Parks,418.3,51.0,4,0,Low Value
+SP-10620,Stefania Perrino,299.6,-224.9,5,0,Low Value
+SP-10650,Stephanie Phelps,770.8000000000001,-56.49999999999999,6,0,Low Value
+SP-10860,Sung Pak,503.5,62.099999999999994,2,0,Low Value
+SP-10920,Susan Pistek,896.4000000000001,-165.29999999999998,4,0,Low Value
+SP-20545,Sibella Parks,6801.2,698.1,20,1,Regular
+SP-20620,Stefania Perrino,19114.0,242.20000000000005,31,1,Regular
+SP-20650,Stephanie Phelps,10378.0,1739.3,24,1,Regular
+SP-20860,Sung Pak,12994.9,1688.5,26,1,Regular
+SP-20920,Susan Pistek,28124.2,6649.1,28,2,High Value
+SR-10425,Sharelle Roach,281.3,-6.400000000000004,5,0,Low Value
+SR-10740,Steven Roelle,2154.0,291.2,4,0,Low Value
+SR-20425,Sharelle Roach,12721.4,-2544.6,19,0,Low Value
+SR-20740,Steven Roelle,17220.4,4096.2,33,2,High Value
+SS-10140,Saphhira Shifley,3491.7999999999997,905.3000000000001,7,0,Low Value
+SS-10410,Shahid Shariari,2348.4,318.7,10,0,Low Value
+SS-10515,Shirley Schmidt,424.40000000000003,130.4,3,0,Low Value
+SS-10590,Sonia Sunley,940.5,354.2,3,0,Low Value
+SS-10875,Sung Shariari,556.1999999999999,-707.8,4,0,Low Value
+SS-20140,Saphhira Shifley,20139.0,-1517.7000000000003,32,1,Regular
+SS-20410,Shahid Shariari,15759.800000000001,-187.00000000000006,27,1,Regular
+SS-20515,Shirley Schmidt,7480.9,285.70000000000005,19,1,Regular
+SS-20590,Sonia Sunley,12181.5,2015.8999999999999,26,1,Regular
+SS-20875,Sung Shariari,4772.0,147.6,21,1,Regular
+ST-10530,Shui Tom,943.2,159.6,6,0,Low Value
+ST-20530,Shui Tom,14063.8,2074.6,32,1,Regular
+SU-10665,Stephanie Ulpright,3331.1,564.7,6,0,Low Value
+SU-20665,Stephanie Ulpright,7442.9,-54.5,23,1,Regular
+SV-10365,Seth Vernon,1256.5,258.4,5,0,Low Value
+SV-10785,Stewart Visinsky,2969.5,260.90000000000003,7,0,Low Value
+SV-10815,Stuart Van,7728.8,-537.2,9,0,Low Value
+SV-10935,Susan Vittorini,487.7,-331.6,3,0,Low Value
+SV-20365,Seth Vernon,22376.4,1964.4,31,2,High Value
+SV-20785,Stewart Visinsky,14263.2,1922.3,27,1,Regular
+SV-20815,Stuart Van,14575.5,1515.6000000000001,24,1,Regular
+SV-20935,Susan Vittorini,15197.9,1000.1999999999999,28,1,Regular
+SW-10245,Scot Wooten,1901.9,325.5,4,0,Low Value
+SW-10275,Scott Williamson,1480.3999999999999,159.1,5,0,Low Value
+SW-10350,Sean Wendt,1244.4,-5.099999999999996,9,0,Low Value
+SW-10455,Shaun Weien,2205.3,399.3,9,0,Low Value
+SW-10755,Steven Ward,2346.9,499.1,7,0,Low Value
+SW-20245,Scot Wooten,13576.4,1622.6,26,1,Regular
+SW-20275,Scott Williamson,15565.0,884.6999999999999,33,1,Regular
+SW-20350,Sean Wendt,6923.2,1036.7,21,1,Regular
+SW-20455,Shaun Weien,6038.1,764.3000000000001,22,1,Regular
+SW-20755,Steven Ward,23321.5,2295.6,31,2,High Value
+SZ-10035,Sam Zeldin,1164.2,130.7,4,0,Low Value
+SZ-20035,Sam Zeldin,15192.3,2785.3,37,2,High Value
+TA-11385,Tom Ashbrook,4819.8,36.90000000000012,5,0,Low Value
+TA-21385,Tom Ashbrook,35668.1,6275.1,25,2,High Value
+TB-11055,Ted Butterfield,2355.2,533.0,3,0,Low Value
+TB-11175,Thomas Boland,850.3000000000001,175.3,4,0,Low Value
+TB-11190,Thomas Brumley,1115.4,179.3,4,0,Low Value
+TB-11250,Tim Brockman,7271.1,656.1999999999999,15,0,Low Value
+TB-11280,Toby Braunhardt,1574.5,192.9,9,0,Low Value
+TB-11355,Todd Boyes,438.1,-322.1,8,0,Low Value
+TB-11400,Tom Boeckenhauer,3103.2,724.5,9,0,Low Value
+TB-11520,Tracy Blumstein,3991.5,455.40000000000003,11,0,Low Value
+TB-11595,Troy Blackwell,752.1,219.5,4,0,Low Value
+TB-11625,Trudy Brown,1810.8,-367.0,5,0,Low Value
+TB-21055,Ted Butterfield,13672.1,1026.5,29,1,Regular
+TB-21175,Thomas Boland,16574.0,2111.2,27,2,High Value
+TB-21190,Thomas Brumley,10686.199999999999,1873.0000000000002,17,1,Regular
+TB-21250,Tim Brockman,11830.2,2409.9,28,1,Regular
+TB-21280,Toby Braunhardt,10127.0,1054.3,26,1,Regular
+TB-21355,Todd Boyes,9205.0,1094.3,20,1,Regular
+TB-21400,Tom Boeckenhauer,21376.4,3471.9,26,2,High Value
+TB-21520,Tracy Blumstein,16717.5,-198.29999999999993,34,1,Regular
+TB-21595,Troy Blackwell,8438.3,1219.3,26,1,Regular
+TB-21625,Trudy Brown,13266.3,1867.6,31,1,Regular
+TC-10980,Tamara Chand,3239.0,-114.70000000000003,8,0,Low Value
+TC-11145,Theresa Coyne,3799.6,1228.8,10,0,Low Value
+TC-11295,Toby Carlisle,730.9,233.9,5,0,Low Value
+TC-11475,Tony Chapman,1907.5,219.8,9,0,Low Value
+TC-11535,Tracy Collins,2215.0,-1355.5,4,0,Low Value
+TC-20980,Tamara Chand,34218.5,8787.6,28,2,High Value
+TC-21145,Theresa Coyne,18420.4,2131.3,25,2,High Value
+TC-21295,Toby Carlisle,19392.2,1263.5,29,1,Regular
+TC-21475,Tony Chapman,10722.7,1181.1,29,1,Regular
+TC-21535,Tracy Collins,8888.0,1738.6,30,1,Regular
+TD-10995,Tamara Dahlen,780.5,-769.8,3,0,Low Value
+TD-20995,Tamara Dahlen,6924.3,-178.50000000000006,25,1,Regular
+TG-11310,Toby Gnade,714.5,243.6,3,0,Low Value
+TG-11640,Trudy Glocke,4906.4,1106.2,9,0,Low Value
+TG-21310,Toby Gnade,12305.7,2742.6,32,2,High Value
+TG-21640,Trudy Glocke,13973.800000000001,1990.3,33,1,Regular
+TH-11100,Thea Hendricks,1856.3000000000002,364.7,4,0,Low Value
+TH-11115,Thea Hudgings,1870.3000000000002,490.4,6,0,Low Value
+TH-11235,Tiffany House,3901.3,549.6,10,0,Low Value
+TH-11550,Tracy Hopkins,283.9,-24.099999999999994,5,0,Low Value
+TH-21100,Thea Hendricks,13684.7,1587.8999999999999,27,1,Regular
+TH-21115,Thea Hudgings,13484.0,1775.4,25,1,Regular
+TH-21235,Tiffany House,12896.1,1106.6999999999998,26,1,Regular
+TH-21550,Tracy Hopkins,12809.1,-709.3,26,1,Regular
+TM-11010,Tamara Manning,300.6,-270.5,3,0,Low Value
+TM-11490,Tony Molinari,2063.1,-877.5,8,0,Low Value
+TM-21010,Tamara Manning,14159.7,2198.7,27,1,Regular
+TM-21490,Tony Molinari,13908.9,2378.2,27,2,High Value
+TN-11040,Tanja Norvell,187.3,26.4,2,0,Low Value
+TN-21040,Tanja Norvell,9410.699999999999,-732.5,29,1,Regular
+TP-11130,Theone Pippenger,1261.4,109.50000000000001,6,0,Low Value
+TP-11415,Tom Prescott,1951.2,467.09999999999997,4,0,Low Value
+TP-11565,Tracy Poddar,857.4,145.20000000000002,5,0,Low Value
+TP-21130,Theone Pippenger,22697.8,1964.3,37,2,High Value
+TP-21415,Tom Prescott,10926.8,-121.0,22,1,Regular
+TP-21565,Tracy Poddar,12429.9,1650.4,30,1,Regular
+TR-11325,Toby Ritter,2395.7000000000003,669.7,4,0,Low Value
+TR-21325,Toby Ritter,10033.5,1767.0,22,1,Regular
+TS-11085,Thais Sissman,1390.9,249.1,8,0,Low Value
+TS-11160,Theresa Swint,1130.2,194.7,5,0,Low Value
+TS-11205,Thomas Seio,641.6,-0.9000000000000012,3,0,Low Value
+TS-11340,Toby Swindell,1631.3999999999999,225.8,5,0,Low Value
+TS-11370,Todd Sumrall,4573.599999999999,993.1,10,0,Low Value
+TS-11430,Tom Stivers,5812.0,1812.2,7,0,Low Value
+TS-11505,Tony Sayre,2123.8,-157.49999999999994,4,0,Low Value
+TS-11610,Troy Staebel,2011.1000000000001,105.5,5,0,Low Value
+TS-11655,Trudy Schmidt,452.9,73.2,6,0,Low Value
+TS-21085,Thais Sissman,5395.4,860.3,19,1,Regular
+TS-21160,Theresa Swint,6806.3,939.3000000000001,22,1,Regular
+TS-21205,Thomas Seio,13888.7,2350.6,32,2,High Value
+TS-21340,Toby Swindell,16997.0,2377.2,31,2,High Value
+TS-21370,Todd Sumrall,23201.8,4101.3,27,2,High Value
+TS-21430,Tom Stivers,9533.3,552.9,22,1,Regular
+TS-21505,Tony Sayre,17613.2,2306.9,27,2,High Value
+TS-21610,Troy Staebel,20566.0,1614.3,30,2,High Value
+TS-21655,Trudy Schmidt,9525.5,952.6,24,1,Regular
+TT-11070,Ted Trevino,1572.3,622.0,2,0,Low Value
+TT-11220,Thomas Thornton,1826.3,472.5,9,0,Low Value
+TT-11265,Tim Taslimi,5049.4,1269.7,9,0,Low Value
+TT-11460,Tonja Turnell,1649.8,-160.10000000000002,8,0,Low Value
+TT-21070,Ted Trevino,15673.2,1698.4,31,1,Regular
+TT-21220,Thomas Thornton,13224.6,1188.9,22,1,Regular
+TT-21265,Tim Taslimi,4730.6,15.099999999999982,20,0,Low Value
+TT-21460,Tonja Turnell,18432.4,2391.3,32,2,High Value
+TW-11025,Tamara Willingham,323.2,-137.9,8,0,Low Value
+TW-21025,Tamara Willingham,13932.0,3412.6,27,2,High Value
+TZ-11445,Tom Zandusky,745.3,250.79999999999998,7,0,Low Value
+TZ-11580,Tracy Zic,403.0,-275.2,5,0,Low Value
+TZ-21445,Tom Zandusky,14602.0,116.89999999999998,28,1,Regular
+TZ-21580,Tracy Zic,10455.8,195.19999999999996,19,1,Regular
+VB-11745,Victoria Brennan,783.6,190.9,4,0,Low Value
+VB-21745,Victoria Brennan,9960.8,717.6,21,1,Regular
+VD-11670,Valerie Dominguez,1230.1,-211.9,9,0,Low Value
+VD-21670,Valerie Dominguez,14755.2,2243.8,21,1,Regular
+VF-11715,Vicky Freymann,602.5,4.700000000000005,4,0,Low Value
+VF-21715,Vicky Freymann,12000.199999999999,21.500000000000025,24,1,Regular
+VG-11790,Vivek Gonzalez,386.2,47.50000000000001,4,0,Low Value
+VG-11805,Vivek Grady,1190.3,140.29999999999998,4,0,Low Value
+VG-21790,Vivek Gonzalez,9908.7,-412.00000000000006,27,1,Regular
+VG-21805,Vivek Grady,22573.2,3906.7,23,2,High Value
+VM-11685,Valerie Mitchum,859.0,-94.79999999999998,6,0,Low Value
+VM-11835,Vivian Mathis,1270.4,338.09999999999997,3,0,Low Value
+VM-21685,Valerie Mitchum,13708.5,-1551.1,32,1,Regular
+VM-21835,Vivian Mathis,2621.7000000000003,318.7,20,0,Low Value
+VP-11730,Victor Preis,432.0,-508.3,4,0,Low Value
+VP-11760,Victoria Pisteka,1615.6,374.7,3,0,Low Value
+VP-21730,Victor Preis,11629.4,2741.3,29,2,High Value
+VP-21760,Victoria Pisteka,16935.7,2015.8,28,2,High Value
+VS-11820,Vivek Sundaresam,1136.3,126.6,7,0,Low Value
+VS-21820,Vivek Sundaresam,10275.8,1460.2,15,1,Regular
+VT-11700,Valerie Takahito,1271.6,178.70000000000002,7,0,Low Value
+VT-21700,Valerie Takahito,18099.3,912.1000000000001,25,1,Regular
+VW-11775,Victoria Wilson,1253.1000000000001,252.5,5,0,Low Value
+VW-21775,Victoria Wilson,15785.9,42.100000000000115,30,1,Regular
+WB-11850,William Brown,182.5,-146.5,2,0,Low Value
+WB-21850,William Brown,16704.4,2694.6,38,2,High Value
+XP-11865,Xylona Preis,1011.6999999999999,65.10000000000001,3,0,Low Value
+XP-21865,Xylona Preis,11186.9,1239.6000000000001,27,1,Regular
+YC-11895,Yoseph Carroll,166.29999999999998,22.299999999999997,4,0,Low Value
+YC-21895,Yoseph Carroll,19998.1,4325.0,27,2,High Value
+YS-11880,Yana Sorensen,1328.9,358.8,6,0,Low Value
+YS-21880,Yana Sorensen,18703.8,3091.6,26,2,High Value
+ZC-11910,Zuschuss Carroll,7.2,-15.6,1,0,Low Value
+ZC-21910,Zuschuss Carroll,28473.0,452.6000000000002,37,2,High Value
+ZD-11925,Zuschuss Donatelli,2951.7,478.29999999999995,9,0,Low Value
+ZD-21925,Zuschuss Donatelli,9479.3,-276.69999999999993,20,1,Regular

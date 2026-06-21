@@ -34,7 +34,6 @@ The objective was to identify profitability drivers, customer behavior patterns,
 
 <img width="1137" height="733" alt="1 – Executive Summary" src="https://github.com/user-attachments/assets/1d95d93b-859d-4cc1-8809-566564c58fc1" />
 
-)
 
 ### Page 2 – Regional Performance
 
